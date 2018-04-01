@@ -1,0 +1,152 @@
+dc roi day em
+em biet choem  dcose t hể hỏi là những chỗ anh vừa hcinhr sửa là mình chỉnh cái link ak chưa bài ak
+
+uh em de dung dang chua link bai cua em vao
+link bai em de luu trong database theo tung bai khac nhau
+roi echo vao dung cho al dc
+anh hươnng dẫn em cái phần đưa bài lên như anh đang nói trên dcko ak
+ok
+ah
+anh oi em hỏi
+đoạn anh sửa js/noidungan.js chính là cái phần mình cchuas liink phải ko akb\d
+dung roi day
+vang ak
+anh chỉ cho em cái kia đia ak
+de anh noi cho nhe
+ok
+anh oi
+cái phần mình đăng nhập pas sao lấy mất ý anh nhỉ
+doi anh xem da nhe
+vang ak
+ok ak
+em nhap pass di 
+thu xem dơn dc khg
+chỉ xem dc. ko down
+nhung file nao trinh duyet doc thi doc dc 
+roi save ve
+con nhung file nao trinh duyet kgh doc dc thi dơn ve 
+dvcvaayj để em cho thử 1 file.doc anh nha
+ok
+sao y anh nhi
+chua dung duoi file 
+de anh xem cho nhe
+ok ak
+anh ơi ưm hỏi ak
+
+cái phần dl bài giảng ý
+ko cần đưa vào mýql server mà vẫn update đẻ ng đoc down dc như the ak
+dung la em phai lam ca mysql nua
+em thu hoi thay xem co phai lam khg
+gia su gio ma co nhieu bai thi em phai co nhieu file la khg dung
+em thu hoi lai thay xem
+co can lam admin khg
+neu co thi lam
+co kho khan trong luc lam thi anh giup
+
+phần admin phải làm ak
+the em nghi  cuu lam xem
+truoc lam BTL mon web em da lam phan admin chua
+em lam roi
+em biet lam ve admin ak
+nhưng chắc chắn em sẽ gặp khó khăn ở cái làm update bài lên ấy ak
+vì lần em làm bài tap lớn . cái upate img có vẻ dễ hơn. fiel.doc ehưa lam bjo ak. nhưng em se  lam cai chỗ nè. nếu ko xử lí dc em hoi anh dc ko ak
+
+can gi em cu hoi , mien hom nao moi anh di uong 
+nc by:P ánef chắc chắn luôn ak
+
+the em cu lam di
+can gi anh giup
+a
+ma CN hang tuan anh hay len thu vien de day mot ban SV lam do an
+em can thi cu len day hoi truoc ti
+ep
+khg thi cu nhue tha nayb
+ban ngày anh đi làm sẽ bận đúng ko ak
+anh di lam cung ban 
+ve nha cung phai lam
+nhung cung de chut time giup 
+vâng ak
+vì hạn của em còn 2 tuần nữa. bắt đàu từ tuần nè và còn tuan nữa. em hỏi anh mỗi tối dc ko ak :((
+dc ok
+cu tam 9h em levna amnagng
+
+neu khg thay anh len thi nhan tin dd
+co the co hom anh ban va hom khg nhe
+vâng ak
+nhưng giờ em muốn hỏi về phần vừa làm ấy ak
+bjo em có 11 file.docx 
+với mối một bài giảng click sẽ đến 1 file. thì em xử lí sao ak
+em lam phan admin di
+voi moi bai em luu cai upload/baigiang/01 - T1Bai1-Gioi thieu.docx
+vao admin se khac nhau
+thi em se down dc ve
+gio nhe
+viec day anh se huong dan cho 
+em lam cho anh cai admin di
+cang nhanh cang tot
+roi anh huong dan tiep cho
+dung co mot luc lam nhieu viec
+khg hieu qua dau
+
+vâng ak
+nhưng em hỏi là admin môn học ntn thì cần nhứng gì ak
+vì em thương làm web bán hàng
+admin em bit có những gì
+cái nè em ko rõ ak
+nhe gom
+ name: Đây là slide 1 môn học Lập trình mạng máy tính, giảng dạy cho khóa 52, khoa CNTT, trường ĐH Thủy Lợi.
+ noi dung: Nội dung của slide này gồm:
+
+    Lý do dùng công nghệ .NET trong lập trình mạng
+    Chương trình mạng là gì, và làm được gì?
+    Làm gì để có môi trường lập trình .NET
+
+ duong dan dlowam nay
+ em lam tam the di
+ em hieu y anh khg
+ vang ak
+ em làm có gì em pm hỏi anh ak :3
+ 
+ the nay nhe
+ anh se giup em trong khoang tu 9h->10h30 hang toi
+ em chi duoc hoi anh trong khoang time day
+ vi sau anh lam viec
+ anh khg thich ti ti em lai hoi
+ em hieu y anh chu
+ ok?
+ vâng. ý em cũng là làm xong em pm báo anh thôi ak. em cũng ko hay hỏi lặt vặt vậy đâu ak :3
+ ok
+ anh thi thoai moi thoi
+khg kho khan dau
+nen em cu hoi nhe
+vâng ak
+bjo anh làm viejc đi ak
+em đi làm cái admin kia ak.
+
+ah. em hỏi chút nữa ak
+dưới môi bài ấy. có phần cmt của ng xem. em cũng dùng js của trang kia. hiện giò khi cmt nó vẫn đưa đến trang kia như cái down vua roi ấy ak. anh chỉnh em cái đó với ak :3
+
+em lam phan admin di
+comment de anh xem sau di
+vag ak
+
+vậy anh lam viec di ak
+em di lam cái kia ak
+em cảm ơn anh ak
+khg co gi
+bb em
+
+vâng a
+em chao anh
+
+
+
+
+
+
+
+
+
+
+
+
