@@ -1,0 +1,144 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Trang quản trị</title>
+<link type="text/css" rel="stylesheet" href="C:\wamp64\www\webmypham\adminmp\css\main.css" />
+<link type="text/css" rel="stylesheet" href="C:\wamp64\www\webmypham\css\menu.css" />
+<script type="text/javascript" src="../quanly.js"></script> 
+</head>
+
+<body onload="kt();">
+<script type="text/javascript" src="Scripts/tooltip/wz_tooltip.js"></script> 
+<script type="text/javascript" src="Scripts/tooltip/tip_balloon.js"></script> 
+<script type="text/javascript" src="Scripts/tooltip/tip_centerwindow.js"></script> 
+<script type="text/javascript" src="Scripts/tooltip/tip_followscroll.js"></script>
+
+<div id="container">
+  <div id="header">
+	  
+<table width="960" height="35" border="0" cellspacing="0" cellpadding="0" background="../images/demo2.png">
+      <tr>       
+        <td align="center" width="150" style="color:#FFF">Xin chào: admin &nbsp; <a href="../admincp/logout.php" style="color:#FFF; font-family:Tahoma; font-size: 12px; font-weight:bold;">Thoát</a></td>
+        <td align="left" width="460" style="color:#FFF"> | <a href="../admincp/?m=changepw" style="color:#FFF; font-family:Tahoma; font-size: 12px; font-weight:bold;">Đổi mật khẩu</a></td>
+
+  </tr>
+</table>   
+<marquee behavior="alternate"> <font color="#d4340c"> Chào mừng admin đến với trang quản trị</font></marquee>   </div>    
+  <div id="menu-quantri">
+	  <div align="center" class="tdmenu">
+<ul class="glossymenu">
+	<li class='current' ><a href="?m=mn&b=nhomsp-list" style="text-decoration: none; color:#000;"><b> Loại Sản Phẩm</b></a></li>
+	<li  ><a href="?m=sp&b=sp-list" style="text-decoration: none; color:#000;"><b>Sản Phẩm</b></a></li>
+	<li  ><a href="?m=dh&b=gh-guest-list" style="text-decoration: none; color:#000;"><b>Đơn Hàng</b></a></li>
+	<li  ><a href="?m=lienhe" style="text-decoration: none; color:#000;"><b>Liên Hệ</b></a></li>	
+	<li  ><a href="?m=thanhvien" style="text-decoration: none; color:#000;"><b>Thành Viên</b></a></li>	
+	
+</ul>
+</div>
+  </div>  
+  <br clear="all" />
+    <div id="main">  
+        	<div id="content-left">       	 
+        <table width="215" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+   <td class="menu" height="30"><div align="left" style="color:#FFF; font-family:Tahoma; font-size: 13px; font-weight:bold">NHÓM &amp; LOẠI SẢN PHẨM</div></td>
+  </tr>
+  <tr>
+  	<td background="img/bg_menu42.png" height="30" style="padding-left:5px">
+      <strong> NHÓM SẢN PHẨM</strong></td>
+  </tr>
+  <tr>
+   <td height="60" style="padding-left:5px">
+  <div align="left">
+   <img align="absmiddle" src="../images/towred1-r.gif"><a href="../admincp/?m=mn&b=nhomsp-insert" class="admin-menu-left"> Thêm nhóm sản phẩm</a> 
+   	<div style="height:10px"></div>
+	<img align="absmiddle" src="../images/towred1-r.gif"><a href="../admincp/?m=mn&b=nhomsp-list" class="admin-menu-left"> Danh sách nhóm sản phẩm</a>
+	</div>
+    </td>
+  </tr>
+    <tr>
+  	<td background="img/bg_menu42.png" height="30" style="padding-left:5px">
+      <strong> LOẠI SẢN PHẨM</strong></td>
+  </tr>
+  <tr>
+   <td height="50" style="padding-left:5px">
+  <div align="left">
+   <img align="absmiddle" src="../images/towred1-r.gif"><a href="../admincp/?m=mn&b=loaisp-insert" class="admin-menu-left"> Thêm loại sản phẩm</a> 
+   	<div style="height:10px"></div>
+	<img align="absmiddle" src="../images/towred1-r.gif"><a href="../admincp/?m=mn&b=loaisp-list" class="admin-menu-left"> Danh sách tất cả loại sản phẩm</a>
+	</div>
+    </td>
+  </tr> 
+   <tr bgcolor="#ffcc99">
+   <td style="padding-left:5px;" height="25"><strong>LOẠI SẢN PHẨM THEO NHÓM</strong></td>
+   </tr>
+  <tr> 
+	<td>  
+    <tr><td>
+		<div style="padding-left:20px;">
+		<table border=0 cellspacing=0 cellpadding=0 >
+		<tr><td height=30px width=100%>		
+		&nbsp;&nbsp;&nbsp;<img src="C:\wamp64\www\webmypham\adminmp\img\file_uf.gif" width=20 height=20 />
+		<a style="color:#000000" onMouseOver="style.color='#0099CC'" onMouseOut="style.color='#000000'" href='../admincp/?m=mn&b=loaisp-get-list&idn=1'>Laptop</a>
+		</td></tr>		
+		</table>
+		</div></td></tr><tr><td>
+		<div style="padding-left:20px;">
+		<table border=0 cellspacing=0 cellpadding=0 >
+		<tr><td height=30px width=100%>		
+		&nbsp;&nbsp;&nbsp;<img src="C:\wamp64\www\webmypham\adminmp\img\file_uf.gif" width=20 height=20 />
+		<a style="color:#000000" onMouseOver="style.color='#0099CC'" onMouseOut="style.color='#000000'" href='../admincp/?m=mn&b=loaisp-get-list&idn=2'>Phụ kiện</a>
+		</td></tr>		
+		</table>
+		</div></td></tr>    </td>
+  </tr>
+</table>        </div>
+        
+        <div id="content-right">
+         <form method="post" id="frm" name="form">
+<table width="735" height="70" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" bordercolordark="#FFFFFF">
+	  <tr>
+      	<td style="border-top:1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC; border-left:1px solid #CCCCCC"><div align="left" style="color:#d4340c; font-family:Tahoma; font-size: 16px; font-weight:bold; padding-left:20px">QUẢN LÝ NHÓM SẢN PHẨM</div></td>
+      	<td style="border-top:1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC; height:65px; width:55px">
+		<input type="button" value='' onClick="document.form.action='../admincp/?m=mn&b=nhomsp-insert'; document.form.submit();" style="background:url(C:\wamp64\www\webmypham\images\bt_them.jpg); width:55px; height:65px;">
+		</td>		
+		<td style="border-top:1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC; border-right:1px solid #CCCCCC; height:65px; width:55px">
+		<input type="button" value='' onClick="document.form.action='../admincp/?m=mn&b=nhomsp-xl-del';document.form.submit();" style="background:url(C:\wamp64\www\webmypham\images\bt_xoa.jpg); width:55px; height:65px;">       
+        </td>
+      </tr>
+    </table>
+    
+<table width="735" border="0" cellspacing="0" cellpadding="0">  
+  <tr height="30" bgcolor="#d4340c">
+    <td align="center" width="50" style="border-left:1px solid #333;border-right:1px solid #333"><strong><font color="#FFFFFF">Chọn</font></strong></td>
+    <td align="center" width="485" style="border-right:1px solid #333"><strong><font color="#FFFFFF">Tên nhóm sản phẩm</font></strong></td>    
+    <td align="center" width="100" style="border-right:1px solid #333"><strong><font color="#FFFFFF">Sửa</font></strong></td>
+    <td align="center" width="100"><strong><font color="#FFFFFF">Xóa</font></strong></td>    
+  </tr>  
+  <tr>
+  <td width="50" align="center" style="border-left:1px solid #333;border-bottom:1px solid #333; border-right:1px solid #333">
+  <input type="checkbox" name="chon[]" value="1"/></td>  
+    <td width="485" height="30" align="center" style="border-bottom:1px solid #333; border-right:1px solid #333"><div align="left" style="padding-left:100px"><b>Laptop</b></div></td>    
+    <td width="100" align="center" style="border-bottom:1px solid #333; border-right:1px solid #333"><a href="?m=mn&amp;b=nhomsp-update&amp;idn=1">Sửa</a></td>
+    <td width="100" align="center" style="border-bottom:1px solid #333; border-right:1px solid #333"><a href="?m=mn&b=nhomsp-del&idn=1" onclick="return check()">Xóa</a>
+    </td>
+  </tr>
+   <tr>
+  <td width="50" align="center" style="border-left:1px solid #333;border-bottom:1px solid #333; border-right:1px solid #333">
+  <input type="checkbox" name="chon[]" value="2"/></td>  
+    <td width="485" height="30" align="center" style="border-bottom:1px solid #333; border-right:1px solid #333"><div align="left" style="padding-left:100px"><b>Phụ kiện</b></div></td>    
+    <td width="100" align="center" style="border-bottom:1px solid #333; border-right:1px solid #333"><a href="?m=mn&amp;b=nhomsp-update&amp;idn=2">Sửa</a></td>
+    <td width="100" align="center" style="border-bottom:1px solid #333; border-right:1px solid #333"><a href="?m=mn&b=nhomsp-del&idn=2" onclick="return check()">Xóa</a>
+    </td>
+  </tr>
+   
+</table> 
+</form>        </div>  
+         </div>
+</div>
+
+</body>
+</html>

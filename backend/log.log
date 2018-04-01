@@ -1,0 +1,1422 @@
+22.06.2017 06:55:39 sql=[select * from dmsanpham] 
+22.06.2017 06:57:00 sql=[select * from dmsanpham] 
+22.06.2017 06:57:02 sql=[select * from dmsanpham] 
+22.06.2017 06:58:13 sql=[select * from dmsanpham] 
+22.06.2017 06:58:53 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'vuighe.net', 	'1000000',  'chopper.jpg', 	'20%' ,	'con hang', 	'', 	'kha la ha' )] --> 
+22.06.2017 07:02:53 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'vuighe.net', 	'1000000',  'chopper.jpg', 	'20%' ,	'con hang', 	'', 	'kha la ha' )] --> 
+22.06.2017 07:03:22 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'vuighe.net', 	'1000000',  'chopper.jpg', 	'20%' ,	'con hang', 	'', 	'kha la ha' )] --> 
+22.06.2017 07:03:48 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'vuighe.net', 	'1000000',  'chopper.jpg', 	'20%' ,	'con hang', 	'', 	'kha la ha' )] --> 
+22.06.2017 07:05:01 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'vuighe.net', 	'1000000',  'chopper.jpg', 	'20%' ,	'con hang', 	'', 	'kha la ha' )] --> 
+22.06.2017 07:05:01 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+22.06.2017 07:05:01 sql=[SELECT * FROM sanpham] 
+22.06.2017 07:05:54 sql=[select * from dmsanpham] 
+22.06.2017 07:05:57 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'', 	'0',  '', 	'' ,	'', 	'', 	'' )] --> 
+22.06.2017 07:06:17 sql=[select * from dmsanpham] 
+22.06.2017 07:06:39 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'vuighe.net', 	'100000',  'chopper.jpg', 	'20%' ,	'con hang', 	'', 	'
+asd' )] --> 
+22.06.2017 07:06:39 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+22.06.2017 07:06:39 sql=[SELECT * FROM sanpham] 
+24.06.2017 09:17:08 sql=[select * from dmsanpham] 
+24.06.2017 09:18:00 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'tranphuc1', 	'100000',  'chopper.jpg', 	'20%' ,	'còn hàng', 	'', 	'133133' )] --> 
+24.06.2017 09:18:00 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+24.06.2017 09:18:00 sql=[SELECT * FROM sanpham] 
+24.06.2017 09:19:07 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+24.06.2017 09:19:07 sql=[SELECT * FROM sanpham] 
+24.06.2017 09:20:11 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+24.06.2017 09:20:11 sql=[SELECT * FROM sanpham] 
+25.06.2017 04:01:48 sql=[select * from dmsanpham] 
+25.06.2017 04:47:15 sql=[ select * from user ] 
+25.06.2017 04:47:52 sql=[ select * from user ] 
+25.06.2017 04:50:30 sql=[ select * from user ] 
+25.06.2017 04:50:45 sql=[ select * from user ] 
+25.06.2017 04:50:46 sql=[ select * from user ] 
+25.06.2017 04:50:54 sql=[ select * from user ] 
+25.06.2017 04:52:24 sql=[ select * from user ] 
+25.06.2017 04:52:28 sql=[ select * from user ] 
+25.06.2017 04:54:24 sql=[ select * from user ] 
+25.06.2017 05:00:51 sql=[ select * from user ] 
+25.06.2017 05:01:44 sql=[ select * from user ] 
+25.06.2017 05:01:46 sql=[ select * from user ] 
+25.06.2017 05:01:47 sql=[ select * from user ] 
+25.06.2017 05:01:47 sql=[ select * from user ] 
+25.06.2017 05:01:48 sql=[ select * from user ] 
+25.06.2017 05:01:49 sql=[ select * from user ] 
+25.06.2017 05:01:53 sql=[ select * from user ] 
+25.06.2017 05:01:55 sql=[ select * from user ] 
+25.06.2017 05:04:13 sql=[ select * from user ] 
+25.06.2017 05:04:14 sql=[ select * from user ] 
+25.06.2017 05:28:10 sql=[ select * from user ] 
+25.06.2017 05:28:11 sql=[ select * from user ] 
+25.06.2017 05:28:50 sql=[ select * from user ] 
+25.06.2017 05:28:51 sql=[ select * from user ] 
+25.06.2017 05:29:56 sql=[ select * from user ] 
+25.06.2017 05:36:30 sql=[ select * from user ] 
+25.06.2017 05:36:31 sql=[ select * from user ] 
+25.06.2017 05:36:32 sql=[ select * from user ] 
+25.06.2017 05:36:33 sql=[ select * from user ] 
+25.06.2017 05:36:34 sql=[ select * from user ] 
+25.06.2017 05:37:05 sql=[ select * from user ] 
+25.06.2017 05:37:05 sql=[ select * from user ] 
+25.06.2017 05:37:07 sql=[ select * from user ] 
+25.06.2017 05:37:23 sql=[ select * from user ] 
+25.06.2017 05:37:27 sql=[ select * from user ] 
+25.06.2017 05:39:50 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:18 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:20 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:20 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:39 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:46 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:47 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:48 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:49 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:50 sql=[ select * from user ] 
+25.06.2017 05:40:51 sql=[ select * from user ] 
+25.06.2017 05:40:52 sql=[ select * from user ] 
+25.06.2017 05:40:53 sql=[ select * from dmsanpham] 
+25.06.2017 05:40:58 sql=[ select * from user ] 
+25.06.2017 05:40:59 sql=[ select * from dmsanpham] 
+25.06.2017 05:41:19 sql=[ select * from dmsanpham] 
+25.06.2017 05:57:39 sql=[ select * from dmsanpham] 
+25.06.2017 05:57:40 sql=[ select * from dmsanpham] 
+25.06.2017 05:58:33 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 05:58:33 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:04:18 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:04:18 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:04:21 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:04:21 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:23:29 sql=[ select * from dmsanpham] 
+25.06.2017 06:23:30 sql=[ select * from dmsanpham] 
+25.06.2017 06:23:32 sql=[ select * from user ] 
+25.06.2017 06:24:12 sql=[ select * from user ] 
+25.06.2017 06:24:22 sql=[ select * from dmsanpham] 
+25.06.2017 06:24:26 sql=[ select * from user ] 
+25.06.2017 06:25:28 sql=[ select * from user ] 
+25.06.2017 06:27:30 sql=[ select * from user ] 
+25.06.2017 06:28:49 sql=[ select * from user ] 
+25.06.2017 06:28:50 sql=[ select * from user ] 
+25.06.2017 06:28:51 sql=[ select * from dmsanpham] 
+25.06.2017 06:30:03 sql=[ select * from dmsanpham] 
+25.06.2017 06:30:10 sql=[ select * from user ] 
+25.06.2017 06:30:13 sql=[ select * from dmsanpham] 
+25.06.2017 06:30:19 sql=[ select * from user ] 
+25.06.2017 06:32:07 sql=[ select * from dmsanpham] 
+25.06.2017 06:43:06 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:43:06 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:43:54 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:43:54 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:43:55 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:43:55 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:47:41 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:47:41 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:49:19 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:20 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:22 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:24 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:27 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:30 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:31 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:46 sql=[ select * from dmsanpham] 
+25.06.2017 06:49:47 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:49:47 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:51:18 sql=[ select * from user ] 
+25.06.2017 06:51:19 sql=[ select * from dmsanpham] 
+25.06.2017 06:51:22 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:51:22 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:51:23 sql=[ select * from dmsanpham] 
+25.06.2017 06:53:28 sql=[ select * from dmsanpham] 
+25.06.2017 06:56:16 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:56:16 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:56:22 sql=[ select * from dmsanpham] 
+25.06.2017 06:56:23 sql=[ select * from user ] 
+25.06.2017 06:56:25 sql=[ select * from dmsanpham] 
+25.06.2017 06:56:29 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:56:29 sql=[SELECT * FROM sanpham] 
+25.06.2017 06:58:17 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 06:58:17 sql=[SELECT * FROM sanpham] 
+25.06.2017 07:04:27 sql=[ select * from user ] 
+25.06.2017 07:04:29 sql=[ select * from dmsanpham] 
+25.06.2017 07:04:32 sql=[ select * from user ] 
+25.06.2017 07:04:35 sql=[ select * from user ] 
+25.06.2017 07:04:36 sql=[ select * from dmsanpham] 
+25.06.2017 07:04:38 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 07:04:38 sql=[SELECT * FROM sanpham] 
+25.06.2017 07:04:45 sql=[ select * from user ] 
+25.06.2017 07:28:59 sql=[ select * from dmsanpham] 
+25.06.2017 07:29:01 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 07:29:01 sql=[SELECT * FROM sanpham] 
+25.06.2017 07:29:54 sql=[ select * from user ] 
+25.06.2017 07:29:58 sql=[ select * from dmsanpham] 
+25.06.2017 07:30:07 sql=[ select * from user ] 
+25.06.2017 07:30:12 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:04 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:06 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:38:13 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:38:13 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:15 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:38:17 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:19 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:38:20 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:22 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:38:27 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:38:27 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:33 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:38:40 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:38:40 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:46 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:47 sql=[ select * from dmsanpham] 
+25.06.2017 07:38:49 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:38:52 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:38:52 sql=[ select * from dmsanpham] 
+25.06.2017 07:39:10 sql=[ select * from dmsanpham] 
+25.06.2017 07:39:44 sql=[ select * from user ] 
+25.06.2017 07:39:47 sql=[ select * from dmsanpham] 
+25.06.2017 07:39:49 sql=[ select * from user ] 
+25.06.2017 07:39:52 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 07:39:52 sql=[SELECT * FROM sanpham] 
+25.06.2017 07:39:53 sql=[ select * from dmsanpham] 
+25.06.2017 07:39:54 sql=[ select * from user ] 
+25.06.2017 07:39:56 sql=[ select * from dmsanpham] 
+25.06.2017 07:39:59 sql=[ select * from user ] 
+25.06.2017 07:40:00 sql=[ select * from dmsanpham] 
+25.06.2017 07:40:01 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:40:04 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:40:04 sql=[ select * from dmsanpham] 
+25.06.2017 07:40:55 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:40:56 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:40:56 sql=[ select * from dmsanpham] 
+25.06.2017 07:44:28 sql=[ select * from dmsanpham] 
+25.06.2017 07:45:03 sql=[ select * from dmsanpham] 
+25.06.2017 07:45:04 sql=[ select * from dmsanpham] 
+25.06.2017 07:45:09 sql=[ select * from dmsanpham] 
+25.06.2017 07:45:10 sql=[ select * from dmsanpham] 
+25.06.2017 07:45:29 sql=[ select * from dmsanpham] 
+25.06.2017 07:45:57 sql=[ select * from dmsanpham] 
+25.06.2017 07:45:59 sql=[ select * from dmsanpham] 
+25.06.2017 07:46:00 sql=[ select * from user ] 
+25.06.2017 07:46:28 sql=[ select * from user ] 
+25.06.2017 07:47:08 sql=[ select * from user ] 
+25.06.2017 07:47:38 sql=[ select * from user ] 
+25.06.2017 07:47:51 sql=[ select * from dmsanpham] 
+25.06.2017 07:47:53 sql=[ select * from user ] 
+25.06.2017 07:48:06 sql=[ select * from dmsanpham] 
+25.06.2017 07:48:09 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:48:12 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:48:12 sql=[ select * from dmsanpham] 
+25.06.2017 07:48:53 sql=[ select * from dmsanpham] 
+25.06.2017 07:48:57 sql=[select * from dmsanpham where id_dm=2] 
+25.06.2017 07:48:59 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=2] --> 
+25.06.2017 07:48:59 sql=[ select * from dmsanpham] 
+25.06.2017 07:49:02 sql=[select * from dmsanpham where id_dm=2] 
+25.06.2017 07:49:03 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=2] --> 
+25.06.2017 07:49:03 sql=[ select * from dmsanpham] 
+25.06.2017 07:49:34 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 07:54:29 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+25.06.2017 07:54:29 sql=[ select * from dmsanpham] 
+25.06.2017 07:54:32 sql=[select * from dmsanpham where id_dm=2] 
+25.06.2017 07:54:34 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=2] --> 
+25.06.2017 07:54:34 sql=[ select * from dmsanpham] 
+25.06.2017 07:55:53 sql=[select * from dmsanpham where id_dm=2] 
+25.06.2017 07:55:54 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=2] --> 
+25.06.2017 07:55:54 sql=[ select * from dmsanpham] 
+25.06.2017 07:55:58 sql=[ select * from dmsanpham] 
+25.06.2017 07:55:59 sql=[ select * from dmsanpham] 
+25.06.2017 07:56:18 sql=[select * from dmsanpham where id_dm=2] 
+25.06.2017 07:56:21 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=2] --> 
+25.06.2017 07:56:21 sql=[ select * from dmsanpham] 
+25.06.2017 07:56:33 sql=[select * from dmsanpham where id_dm=1] 
+25.06.2017 08:10:07 sql=[ select * from user ] 
+25.06.2017 08:10:08 sql=[ select * from dmsanpham] 
+25.06.2017 08:10:10 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+25.06.2017 08:10:10 sql=[SELECT * FROM sanpham] 
+27.06.2017 10:51:01 sql=[ select * from user ] 
+27.06.2017 10:51:06 sql=[ select * from dmsanpham] 
+27.06.2017 10:51:11 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 10:51:11 sql=[SELECT * FROM sanpham] 
+27.06.2017 10:51:17 sql=[ select * from user ] 
+27.06.2017 10:51:22 sql=[ select * from dmsanpham] 
+27.06.2017 10:51:46 sql=[ select * from user ] 
+27.06.2017 04:24:51 sql=[ select * from user ] 
+27.06.2017 04:24:55 sql=[ select * from user ] 
+27.06.2017 04:24:57 sql=[ select * from user ] 
+27.06.2017 04:25:27 sql=[ select * from dmsanpham] 
+27.06.2017 04:25:34 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:25:34 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:28:12 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:28:12 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:28:20 sql=[select * from dmsanpham] 
+27.06.2017 04:28:28 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:28:28 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:28:29 sql=[select * from dmsanpham] 
+27.06.2017 04:30:32 sql=[select * from dmsanpham] 
+27.06.2017 04:32:42 sql=[select * from dmsanpham] 
+27.06.2017 04:34:02 sql=[select * from dmsanpham] 
+27.06.2017 04:34:34 sql=[select * from dmsanpham] 
+27.06.2017 04:35:39 sql=[select * from dmsanpham] 
+27.06.2017 04:35:52 sql=[select * from dmsanpham] 
+27.06.2017 04:37:32 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Còn Hàng', 	'', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:37:32 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:37:32 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:38:48 sql=[ select * from user ] 
+27.06.2017 04:38:50 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:38:50 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:41:47 sql=[select * from dmsanpham] 
+27.06.2017 04:41:49 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:41:49 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:41:51 sql=[select * from dmsanpham] 
+27.06.2017 04:42:14 sql=[select * from dmsanpham] 
+27.06.2017 04:43:18 sql=[select * from dmsanpham] 
+27.06.2017 04:43:36 sql=[ select * from dmsanpham] 
+27.06.2017 04:43:39 sql=[ select * from user ] 
+27.06.2017 04:43:42 sql=[ select * from dmsanpham] 
+27.06.2017 04:47:53 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:47:53 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:48:19 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:48:19 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:48:20 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:48:20 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:48:22 sql=[select * from dmsanpham] 
+27.06.2017 04:48:51 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Còn Hàng', 	'', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:48:51 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 04:48:51 sql=[SELECT * FROM sanpham] 
+27.06.2017 04:48:56 sql=[select * from dmsanpham] 
+27.06.2017 04:50:46 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Còn Hàng', 	'', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:52:01 sql=[select * from dmsanpham] 
+27.06.2017 04:52:03 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Còn Hàng', 	'Sách Mới', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:52:30 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Còn Hàng', 	'Sách Mới', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:52:32 sql=[select * from dmsanpham] 
+27.06.2017 04:52:33 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,tinh_trang,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Còn Hàng', 	'Sách Mới', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:53:30 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Sách Mới', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:53:32 sql=[select * from dmsanpham] 
+27.06.2017 04:53:33 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	'174.25',  'harry-potter-tap-4__49230.jpg', 	'-15%' ,	'Sách Mới', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...' )] --> 
+27.06.2017 04:54:03 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'', 	'0',  '', 	'' ,	'', 	'' )] --> 
+27.06.2017 05:33:19 sql=[ select * from user ] 
+27.06.2017 05:33:21 sql=[ select * from dmsanpham] 
+27.06.2017 05:33:24 sql=[ select * from user ] 
+27.06.2017 05:33:29 sql=[ select * from dmsanpham] 
+27.06.2017 05:33:30 sql=[select * from dmsanpham where id_dm=1] 
+27.06.2017 05:33:34 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+27.06.2017 05:33:34 sql=[ select * from dmsanpham] 
+27.06.2017 05:34:02 sql=[ select * from dmsanpham] 
+27.06.2017 05:34:03 sql=[select * from dmsanpham where id_dm=1] 
+27.06.2017 05:34:10 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=1] --> 
+27.06.2017 05:34:10 sql=[select * from dmsanpham where id_dm=0] 
+27.06.2017 05:34:12 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=] --> 
+27.06.2017 05:34:12 sql=[select * from dmsanpham where id_dm=0] 
+27.06.2017 05:34:27 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=] --> 
+27.06.2017 05:34:27 sql=[ select * from dmsanpham] 
+27.06.2017 05:40:08 sql=[ select * from user ] 
+27.06.2017 05:40:11 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:40:11 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:40:14 sql=[ select * from dmsanpham] 
+27.06.2017 05:40:17 sql=[ select * from user ] 
+27.06.2017 05:40:53 sql=[ select * from dmsanpham] 
+27.06.2017 05:40:55 sql=[select * from dmsanpham 
+	where id_dm=7] 
+27.06.2017 05:40:59 <!-- sql=[delete from dmsanpham   WHERE id_dm = 7] --> 
+27.06.2017 05:41:00 sql=[ select * from dmsanpham] 
+27.06.2017 05:43:34 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:43:34 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:43:40 sql=[select * from sanpham 
+	where id_sp=5] 
+27.06.2017 05:43:51 <!-- sql=[delete from sanpham   WHERE id_sp = 5] --> 
+27.06.2017 05:43:51 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:43:51 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:44:29 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:44:29 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:44:30 sql=[select * from dmsanpham] 
+27.06.2017 05:44:33 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,trang_thai,chi_tiet_sp)  VALUES (	'1', 	'', 	'0',  '', 	'' ,	'', 	'' )] --> 
+27.06.2017 05:44:35 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:44:36 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:44:37 sql=[select * from dmsanpham] 
+27.06.2017 05:46:28 sql=[select * from dmsanpham] 
+27.06.2017 05:46:29 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,trang_thai,chi_tiet_sp)  VALUES (	'1', 	'', 	'0',  '', 	'' ,	'', 	'' )] --> 
+27.06.2017 05:46:45 sql=[select * from dmsanpham] 
+27.06.2017 05:46:47 sql=[select * from dmsanpham] 
+27.06.2017 05:46:48 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:46:48 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:46:51 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:46:51 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:46:53 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:46:53 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:46:55 sql=[select * from dmsanpham] 
+27.06.2017 05:46:57 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:46:57 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:47:03 sql=[select * from sanpham 
+	where id_sp=8] 
+27.06.2017 05:47:07 <!-- sql=[delete from sanpham   WHERE id_sp = 8] --> 
+27.06.2017 05:47:08 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:47:08 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:47:09 sql=[select * from sanpham 
+	where id_sp=9] 
+27.06.2017 05:47:11 <!-- sql=[delete from sanpham   WHERE id_sp = 9] --> 
+27.06.2017 05:47:11 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:47:11 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:47:25 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:47:25 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:47:32 sql=[ select * from user ] 
+27.06.2017 05:47:35 sql=[ select * from dmsanpham] 
+27.06.2017 05:47:37 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:47:37 sql=[SELECT * FROM sanpham] 
+27.06.2017 05:47:38 sql=[ select * from dmsanpham] 
+27.06.2017 05:47:39 sql=[ select * from user ] 
+27.06.2017 05:50:31 sql=[ select * from dmsanpham] 
+27.06.2017 05:50:35 sql=[ select * from dmsanpham] 
+27.06.2017 05:50:37 sql=[ select * from dmsanpham] 
+27.06.2017 05:50:48 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:50:48 sql=[ select * from dmsanpham] 
+27.06.2017 05:51:07 sql=[select * from dmsanpham 
+	where id_dm=8] 
+27.06.2017 05:51:09 <!-- sql=[delete from dmsanpham   WHERE id_dm = 8] --> 
+27.06.2017 05:51:09 sql=[ select * from dmsanpham] 
+27.06.2017 05:51:15 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:51:15 sql=[ select * from dmsanpham] 
+27.06.2017 05:53:35 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:53:36 sql=[ select * from dmsanpham] 
+27.06.2017 05:53:38 sql=[select * from dmsanpham 
+	where id_dm=10] 
+27.06.2017 05:53:40 <!-- sql=[delete from dmsanpham   WHERE id_dm = 10] --> 
+27.06.2017 05:53:40 sql=[ select * from dmsanpham] 
+27.06.2017 05:54:01 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:54:01 sql=[ select * from dmsanpham] 
+27.06.2017 05:56:17 sql=[ select * from dmsanpham] 
+27.06.2017 05:56:19 sql=[select * from dmsanpham where id_dm=11] 
+27.06.2017 05:56:21 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=11] --> 
+27.06.2017 05:56:21 sql=[ select * from dmsanpham] 
+27.06.2017 05:56:29 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:56:29 sql=[ select * from dmsanpham] 
+27.06.2017 05:56:34 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:56:34 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:02 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:57:02 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:07 sql=[select * from dmsanpham 
+	where id_dm=14] 
+27.06.2017 05:57:09 <!-- sql=[delete from dmsanpham   WHERE id_dm = 14] --> 
+27.06.2017 05:57:09 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:11 sql=[select * from dmsanpham 
+	where id_dm=13] 
+27.06.2017 05:57:12 <!-- sql=[delete from dmsanpham   WHERE id_dm = 13] --> 
+27.06.2017 05:57:12 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:15 sql=[select * from dmsanpham 
+	where id_dm=12] 
+27.06.2017 05:57:16 <!-- sql=[delete from dmsanpham   WHERE id_dm = 12] --> 
+27.06.2017 05:57:16 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:19 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:57:19 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:23 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:57:23 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:47 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:57:47 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:49 sql=[select * from dmsanpham 
+	where id_dm=17] 
+27.06.2017 05:57:51 <!-- sql=[delete from dmsanpham   WHERE id_dm = 17] --> 
+27.06.2017 05:57:51 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:52 sql=[select * from dmsanpham 
+	where id_dm=16] 
+27.06.2017 05:57:53 <!-- sql=[delete from dmsanpham   WHERE id_dm = 16] --> 
+27.06.2017 05:57:54 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:55 sql=[select * from dmsanpham 
+	where id_dm=15] 
+27.06.2017 05:57:57 <!-- sql=[delete from dmsanpham   WHERE id_dm = 15] --> 
+27.06.2017 05:57:57 sql=[ select * from dmsanpham] 
+27.06.2017 05:57:58 sql=[select * from dmsanpham 
+	where id_dm=11] 
+27.06.2017 05:57:59 <!-- sql=[delete from dmsanpham   WHERE id_dm = 11] --> 
+27.06.2017 05:57:59 sql=[ select * from dmsanpham] 
+27.06.2017 05:58:01 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:58:01 sql=[ select * from dmsanpham] 
+27.06.2017 05:58:05 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 05:58:05 sql=[ select * from dmsanpham] 
+27.06.2017 05:58:38 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 05:58:38 sql=[SELECT * FROM sanpham] 
+27.06.2017 06:00:45 sql=[ select * from dmsanpham] 
+27.06.2017 06:00:48 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'' )] --> 
+27.06.2017 06:00:48 sql=[ select * from dmsanpham] 
+27.06.2017 06:00:49 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 06:00:49 sql=[SELECT * FROM sanpham] 
+27.06.2017 06:00:51 sql=[select * from dmsanpham] 
+27.06.2017 06:00:52 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 06:00:52 sql=[SELECT * FROM sanpham] 
+27.06.2017 06:00:59 sql=[ select * from user ] 
+27.06.2017 06:05:40 sql=[ select * from dmsanpham] 
+27.06.2017 06:05:41 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 06:05:41 sql=[SELECT * FROM sanpham] 
+27.06.2017 06:05:44 sql=[select * from sanpham where id_sp=6] 
+27.06.2017 06:05:44 sql=[select * from dmsanpham] 
+27.06.2017 06:06:12 sql=[select * from sanpham where id_sp=6] 
+27.06.2017 06:06:12 sql=[select * from dmsanpham] 
+27.06.2017 06:06:14 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	gia_sp='174',  anh_sp='' ,	trang_thai='Sách Mới', 	khuyen_mai='-15%' ,	chi_tiet_sp=' Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...'  where id_sp=6] --> 
+27.06.2017 06:06:14 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 06:06:14 sql=[SELECT * FROM sanpham] 
+27.06.2017 06:06:18 sql=[select * from sanpham where id_sp=6] 
+27.06.2017 06:06:18 sql=[select * from dmsanpham] 
+27.06.2017 06:06:25 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	gia_sp='174',  anh_sp='harry-potter-tap-4__49230.jpg' ,	trang_thai='Sách Mới', 	khuyen_mai='-15%' ,	chi_tiet_sp='  Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...'  where id_sp=6] --> 
+27.06.2017 06:06:25 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 06:06:25 sql=[SELECT * FROM sanpham] 
+27.06.2017 06:09:26 sql=[ select * from dmsanpham] 
+27.06.2017 06:09:28 sql=[select * from dmsanpham where id_dm=18] 
+27.06.2017 06:09:31 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc='Sách Kinh Tế 1'  where id_dm=18] --> 
+27.06.2017 06:09:31 sql=[ select * from dmsanpham] 
+27.06.2017 06:09:37 sql=[select * from dmsanpham 
+	where id_dm=9] 
+27.06.2017 06:09:39 <!-- sql=[delete from dmsanpham   WHERE id_dm = 9] --> 
+27.06.2017 06:09:39 sql=[ select * from dmsanpham] 
+27.06.2017 06:09:41 sql=[select * from dmsanpham 
+	where id_dm=20] 
+27.06.2017 06:09:42 <!-- sql=[delete from dmsanpham   WHERE id_dm = 20] --> 
+27.06.2017 06:09:42 sql=[ select * from dmsanpham] 
+27.06.2017 06:09:44 sql=[select * from dmsanpham where id_dm=19] 
+27.06.2017 06:09:45 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=19] --> 
+27.06.2017 06:09:45 sql=[ select * from dmsanpham] 
+27.06.2017 06:09:47 sql=[select * from dmsanpham 
+	where id_dm=19] 
+27.06.2017 06:09:48 <!-- sql=[delete from dmsanpham   WHERE id_dm = 19] --> 
+27.06.2017 06:09:49 sql=[ select * from dmsanpham] 
+27.06.2017 06:10:22 sql=[ select * from dmsanpham] 
+27.06.2017 06:10:34 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'Sách Văn Học Kinh Điển' )] --> 
+27.06.2017 06:10:34 sql=[ select * from dmsanpham] 
+27.06.2017 06:10:58 sql=[ select * from user ] 
+27.06.2017 06:11:44 sql=[ select * from user ] 
+27.06.2017 06:11:45 sql=[ select * from user ] 
+27.06.2017 06:23:45 sql=[ select * from user ] 
+27.06.2017 06:23:47 sql=[ select * from user ] 
+27.06.2017 06:23:48 sql=[ select * from dmsanpham] 
+27.06.2017 06:23:49 sql=[ select * from user ] 
+27.06.2017 06:23:50 sql=[ select * from user ] 
+27.06.2017 06:23:51 sql=[ select * from user ] 
+27.06.2017 06:24:39 sql=[ select * from user ] 
+27.06.2017 06:24:41 sql=[select * from user ] 
+27.06.2017 06:30:19 sql=[select * from user ] 
+27.06.2017 06:30:48 sql=[select * from user ] 
+27.06.2017 06:30:50 sql=[select * from user ] 
+27.06.2017 06:30:50 sql=[select * from user ] 
+27.06.2017 06:30:50 sql=[select * from user ] 
+27.06.2017 06:30:51 sql=[ select * from user ] 
+27.06.2017 06:30:52 sql=[select * from user ] 
+27.06.2017 06:31:22 sql=[select * from user ] 
+27.06.2017 06:31:23 sql=[ select * from user ] 
+27.06.2017 06:31:25 sql=[select * from user ] 
+27.06.2017 06:32:58 sql=[select * from user ] 
+27.06.2017 06:33:08 <!-- sql=[UPDATE user   set id_user='<br />
+<b>Notice</b>:  Undefined variable: product in <b>C:\xampp\htdocs\btl\backend\suauser.php</b> on line <b>19</b><br />
+',  username='tranphuc', 	password='12345678',  fullname='0' , gioitinh='0' ,] --> 
+27.06.2017 06:33:08 sql=[ select * from user ] 
+27.06.2017 06:33:13 sql=[select * from user ] 
+27.06.2017 06:33:15 sql=[ select * from user ] 
+27.06.2017 06:33:17 sql=[select * from user ] 
+27.06.2017 06:33:20 sql=[ select * from user ] 
+27.06.2017 06:33:22 sql=[select * from user ] 
+27.06.2017 06:33:28 sql=[ select * from user ] 
+27.06.2017 06:33:30 sql=[select * from user ] 
+27.06.2017 06:33:37 <!-- sql=[UPDATE user   set id_user='<br />
+<b>Notice</b>:  Undefined variable: product in <b>C:\xampp\htdocs\btl\backend\suauser.php</b> on line <b>19</b><br />
+',  username='tranphuc24', 	password='1234567',  fullname='0' , gioitinh='0' ,] --> 
+27.06.2017 06:33:37 sql=[ select * from user ] 
+27.06.2017 06:33:47 sql=[ select * from user ] 
+27.06.2017 06:33:48 sql=[select * from user ] 
+27.06.2017 06:33:52 <!-- sql=[UPDATE user   set id_user='1',  username='tranphuc123', 	password='1234567',  fullname='0' , gioitinh='0' ,] --> 
+27.06.2017 06:33:52 sql=[ select * from user ] 
+27.06.2017 06:34:56 sql=[select * from user ] 
+27.06.2017 06:35:00 sql=[select * from user ] 
+27.06.2017 06:35:01 sql=[ select * from user ] 
+27.06.2017 06:35:03 sql=[select * from user ] 
+27.06.2017 06:35:47 sql=[ select * from user ] 
+27.06.2017 06:35:48 sql=[select * from user ] 
+27.06.2017 06:35:57 sql=[ select * from user ] 
+27.06.2017 06:35:59 sql=[select * from user ] 
+27.06.2017 06:36:12 <!-- sql=[UPDATE user   set id_user='1',  username='tranphuc', 	password='1234567',  fullname='0' , gioitinh='0' ,] --> 
+27.06.2017 06:36:12 sql=[ select * from user ] 
+27.06.2017 06:36:16 sql=[select * from user ] 
+27.06.2017 06:36:19 sql=[ select * from user ] 
+27.06.2017 06:36:46 sql=[select * from user ] 
+27.06.2017 06:37:30 sql=[select * from user ] 
+27.06.2017 06:37:40 sql=[select * from user ] 
+27.06.2017 06:38:56 sql=[ select * from user ] 
+27.06.2017 06:38:58 sql=[select * from user where id_user=0] 
+27.06.2017 06:39:01 sql=[ select * from user ] 
+27.06.2017 06:39:03 sql=[select * from user where id_user=0] 
+27.06.2017 06:39:26 sql=[ select * from user ] 
+27.06.2017 06:39:28 sql=[select * from user where id_user=0] 
+27.06.2017 06:40:11 sql=[ select * from user ] 
+27.06.2017 06:40:13 sql=[select * from user where id_user=0] 
+27.06.2017 06:40:47 sql=[select * from user where id_user=0] 
+27.06.2017 06:40:59 sql=[select * from user where id_user=0] 
+27.06.2017 06:41:01 sql=[select * from user where id_user=0] 
+27.06.2017 06:41:15 sql=[select * from user where id_user=0] 
+27.06.2017 06:48:31 sql=[ select * from user ] 
+27.06.2017 07:04:29 sql=[select * from user where id_user=0] 
+27.06.2017 07:04:42 <!-- sql=[UPDATE user   set username='tranphuc234', 	password='234234',  fullname='tranquanthai' , gioitinh='0' , where id_user=] --> 
+27.06.2017 07:04:42 sql=[ select * from user ] 
+27.06.2017 08:34:01 sql=[ select * from user ] 
+27.06.2017 08:34:04 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:34:04 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:34:05 sql=[select * from dmsanpham] 
+27.06.2017 08:36:33 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,day,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 5', 	'135', 	'',  'chopper.jpg', 	'-20%' ,	'Sách Mới', 	'ád' )] --> 
+27.06.2017 08:36:54 sql=[select * from dmsanpham] 
+27.06.2017 08:36:56 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Harry Potter Và Chiếc Cốc Lửa - Tập 5', 	'135', 	'27-6-2017',  'chopper.jpg', 	'-20%' ,	'Sách Mới', 	'ád' )] --> 
+27.06.2017 08:37:02 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'', 	'0', 	'',  '', 	'' ,	'', 	'' )] --> 
+27.06.2017 08:37:05 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:37:05 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:37:13 sql=[select * from sanpham where id_sp=10] 
+27.06.2017 08:37:13 sql=[select * from dmsanpham] 
+27.06.2017 08:37:35 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Harry Potter Và Chiếc Cốc Lửa - Tập 5', 	gia_sp='135',  anh_sp='' ,	trang_thai='Sách Mới', 	khuyen_mai='chopper.jpg' ,	chi_tiet_sp=' ád'  where id_sp=10] --> 
+27.06.2017 08:37:35 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:37:35 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:39:20 sql=[select * from sanpham where id_sp=10] 
+27.06.2017 08:39:20 sql=[select * from dmsanpham] 
+27.06.2017 08:39:34 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Harry Potter Và Chiếc Cốc Lửa - Tập 5', 	gia_sp='135',  anh_sp='19511239_1551230354919927_8813616239005431204_n.jpg' ,	trang_thai='Sách Mới', 	khuyen_mai='chopper.jpg' ,	chi_tiet_sp='  ád'  where id_sp=10] --> 
+27.06.2017 08:39:34 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:39:35 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:39:59 sql=[select * from dmsanpham] 
+27.06.2017 08:40:01 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'1', 	'', 	'0', 	'',  '', 	'' ,	'', 	'' )] --> 
+27.06.2017 08:40:04 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:40:04 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:40:12 sql=[select * from dmsanpham] 
+27.06.2017 08:40:23 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'1', 	'324', 	'234', 	'234234',  '19511239_1551230354919927_8813616239005431204_n.jpg', 	'234' ,	'234', 	'23423' )] --> 
+27.06.2017 08:40:41 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'', 	'0', 	'',  '', 	'' ,	'', 	'' )] --> 
+27.06.2017 08:40:50 sql=[select * from dmsanpham] 
+27.06.2017 08:41:11 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:41:11 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:41:14 sql=[select * from sanpham 
+	where id_sp=13] 
+27.06.2017 08:41:15 <!-- sql=[delete from sanpham   WHERE id_sp = 13] --> 
+27.06.2017 08:41:15 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:41:15 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:41:18 sql=[select * from sanpham 
+	where id_sp=12] 
+27.06.2017 08:42:56 <!-- sql=[delete from sanpham   WHERE id_sp = 12] --> 
+27.06.2017 08:42:56 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:42:56 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:42:58 sql=[select * from sanpham 
+	where id_sp=10] 
+27.06.2017 08:43:43 sql=[select * from sanpham 
+	where id_sp=10] 
+27.06.2017 08:43:45 sql=[select * from sanpham 
+	where id_sp=10] 
+27.06.2017 08:43:45 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:43:45 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:43:48 sql=[select * from sanpham 
+	where id_sp=10] 
+27.06.2017 08:43:49 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:43:49 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:43:50 sql=[select * from sanpham 
+	where id_sp=6] 
+27.06.2017 08:43:58 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:43:59 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:57:12 sql=[select * from sanpham 
+	where id_sp=10] 
+27.06.2017 08:57:14 <!-- sql=[delete from sanpham   WHERE id_sp = 10] --> 
+27.06.2017 08:57:14 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:57:14 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:59:30 sql=[select * from sanpham where id_sp=6] 
+27.06.2017 08:59:30 sql=[select * from dmsanpham] 
+27.06.2017 08:59:36 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	gia_sp='174000',  anh_sp='' ,	trang_thai='Sách Mới', 	khuyen_mai='-15%' ,	chi_tiet_sp='   Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...'  where id_sp=6] --> 
+27.06.2017 08:59:36 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:59:36 sql=[SELECT * FROM sanpham] 
+27.06.2017 08:59:39 sql=[select * from sanpham where id_sp=6] 
+27.06.2017 08:59:39 sql=[select * from dmsanpham] 
+27.06.2017 08:59:47 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Harry Potter Và Chiếc Cốc Lửa - Tập 4', 	gia_sp='174000',  anh_sp='harry-potter-tap-4__49230.jpg' ,	trang_thai='Sách Mới', 	khuyen_mai='-15%' ,	chi_tiet_sp='    Harry Potter Và Chiếc Cốc Lửa - Tập 4
+
+Trong tác phẩm “con cưng” của mình thì nữ văn sĩ J.K Rowling đã tiết lộ rằng, “Harry Potter và chiếc cốc lửa” là tác phẩm mà cô tâm đắc nhất.
+
+Ngoài những bài học trong trường Hogwarts thì trong tập truyện này, mối tình của Harry với cô nàng Cho Chang xinh đẹp cũng bắt đầu nảy nở. Trong tập truyện này, những kẻ huỷ diệt thế giới, thuộc hạ của “Kẻ mà ai cũng biết là ai” xuất hiện và những điều kỳ bí, khiếp sợ đã xảy ra...'  where id_sp=6] --> 
+27.06.2017 08:59:47 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+27.06.2017 08:59:47 sql=[SELECT * FROM sanpham] 
+28.06.2017 08:32:20 sql=[ select * from user ] 
+28.06.2017 08:32:23 sql=[ select * from dmsanpham] 
+28.06.2017 08:32:28 sql=[ select * from dmsanpham] 
+28.06.2017 08:33:26 sql=[ select * from user ] 
+28.06.2017 08:33:57 sql=[ select * from dmsanpham] 
+28.06.2017 08:34:56 sql=[ select * from user ] 
+28.06.2017 08:35:02 sql=[ select * from dmsanpham] 
+28.06.2017 08:39:46 sql=[ select * from dmsanpham] 
+28.06.2017 08:40:29 sql=[ select * from dmsanpham] 
+28.06.2017 08:40:35 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 08:40:35 sql=[SELECT * FROM sanpham] 
+28.06.2017 08:40:47 sql=[select * from sanpham where id_sp=6] 
+28.06.2017 08:40:47 sql=[select * from dmsanpham] 
+28.06.2017 08:40:53 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 08:40:53 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:05:56 sql=[select * from dmsanpham] 
+28.06.2017 09:06:18 sql=[ select * from dmsanpham] 
+28.06.2017 09:06:22 sql=[ select * from dmsanpham] 
+28.06.2017 09:06:24 sql=[select * from dmsanpham where id_dm=21] 
+28.06.2017 09:06:37 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc='Tiểu Thuyết Tình Cảm Lãng Mạn'  where id_dm=21] --> 
+28.06.2017 09:06:37 sql=[ select * from dmsanpham] 
+28.06.2017 09:07:30 sql=[select * from dmsanpham] 
+28.06.2017 09:07:35 sql=[ select * from dmsanpham] 
+28.06.2017 09:07:37 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:07:37 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:07:40 sql=[select * from dmsanpham] 
+28.06.2017 09:08:48 sql=[ select * from user ] 
+28.06.2017 09:11:18 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Điều Tuyệt Vời Nhất Của Thanh Xuân (Trọn Bộ 2 Tập)', 	'142400', 	'25-6-2017',  'dieu-tuyet-voi-nhat-cua-tuoi-thanh-xuan-2__47354_image2_800_big.jpg', 	'-20%' ,	'Sách Mới', 	'Điều Tuyệt Vời Nhất Của Thanh Xuân
+
+“Dư Hoài”
+
+“Hử”
+
+“Trước đây cậu có thích tớ không?”
+
+Cậu ấy dịu dàng nhìn tôi, cười khì khì, cúi đầu gãi gãi gáy, giống như chàng trai 17 tuổi cấp 3 năm đó.
+
+Cũng tốt, vấn đề mà Cảnh Cảnh năm 17 tuổi phải hỏi, Dư Hoài năm 17 tuổi trả lời.
+
+Rất lâu sau, Dư Hoài nhè nhẹ gật đầu. Bỗng chốc nước mắt tôi rơi ướt đẫm mặt.
+
+Thanh xuân là gì?
+
+Là những điều chưa dám nói,
+
+Những việc chưa dám làm,
+
+Những mơ hồ thoáng chốc chưa từng quên,
+
+Là khoảng thời gian không thể quay trở lại… dù chỉ một lần.
+
+Thanh xuân là gì? Là phát sáng cũng là tiếc nuối.
+
+Thanh xuân của chúng ta đều có một “ai đó”. Một cậu bạn cùng bàn bên được vây quanh bởi biết bao cô nàng, một cô bạn ngốc nghếch hay ngủ quên trong giờ học, hay thậm chí là một anh chàng lớp trên phía bên kia hành lang vẫn mỗi sáng rảo mắt qua phía bên này hành lang ấy. Ai cũng được và chỉ ở đó thôi... trong tim. Không hề dám mở lời kết bạn, mở lời yêu thương. Đem theo những cảm xúc non nớt với một tâm hồn mong manh của những cô cậu học sinh cấp 3 còn trẻ dại, chỉ dám đứng bên lề cuộc sống của người đó mà dõi theo, mà thương thầm nhớ trộm. Để rồi, những lời cần nói, không thể nói, những việc phải làm, lại không làm. Chỉ cho đến lúc thanh xuân từ lúc nào bỗng nhiên trôi qua vội vã, không một lời từ biệt, mới nhận ra rằng bản thân thực sự đã bỏ lỡ những gì.
+
+Tháng năm trôi đi, ai rồi cũng sẽ lớn. Chuyện ngày cũ, rồi chỉ là quá khứ mà thôi. Sớm muộn gì cũng mờ nhạt trong tâm trí, nhưng mỗi lần nghĩ lại chắc chắn đâu đó trong lòng vẫn còn rất nhiều những khoảng trống, những hoài niệm không tên. Nhưng cũng chẳng sao cả, bởi vì điều tuyệt vời nhất của thanh xuân chính là có một ai đó để đem theo trong tim đến mãi sau này. Điều tuyệt vời nhất của thanh xuân – câu chuyện thanh xuân không dành riêng cho ai. Mà dành cho thanh xuân của tất cả mọi người. Như một thước phim quay chậm, thật chậm, đọc Điều tuyệt vời nhất của thanh xuân để cùng bật cười với những ngốc xít, cùng bật khóc nơi những nuối tiếc và rồi nhắm mắt lại để thấy lòng mình trôi về những ngày thanh xuân đã và đang qua.
+
+“Điều tuyệt vời nhất của thanh xuân” là gì?
+
+Chẳng là gì cả! Chỉ là những mơ hồ như ánh mắt ấy, nụ cười ấy... Như cậu ấy!
+
+Vậy thôi!' )] --> 
+28.06.2017 09:11:45 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'', 	'0', 	'',  '', 	'' ,	'', 	'' )] --> 
+28.06.2017 09:12:09 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:12:09 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:12:13 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:12:13 sql=[select * from dmsanpham] 
+28.06.2017 09:12:41 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:12:41 sql=[select * from dmsanpham] 
+28.06.2017 09:12:45 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:12:45 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:12:49 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:12:49 sql=[select * from dmsanpham] 
+28.06.2017 09:16:45 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:16:45 sql=[select * from dmsanpham] 
+28.06.2017 09:16:46 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:16:46 sql=[select * from dmsanpham] 
+28.06.2017 09:19:07 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:19:07 sql=[select * from dmsanpham] 
+28.06.2017 09:19:29 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:19:29 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:19:31 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:19:31 sql=[select * from dmsanpham] 
+28.06.2017 09:20:48 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:20:48 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:21:10 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Điều Tuyệt Vời Nhất Của Thanh Xuân (Trọn Bộ 2 Tập)', 	gia_sp='142400',  anh_sp='dieu-tuyet-voi-nhat-cua-tuoi-thanh-xuan-2__47354_image2_800_big.jpg' ,	trang_thai='Sách Mới', 	khuyen_mai='-20%' ,	chi_tiet_sp=' Điều Tuyệt Vời Nhất Của Thanh Xuân
+
+“Dư Hoài”
+
+“Hử”
+
+“Trước đây cậu có thích tớ không?”
+
+Cậu ấy dịu dàng nhìn tôi, cười khì khì, cúi đầu gãi gãi gáy, giống như chàng trai 17 tuổi cấp 3 năm đó.
+
+Cũng tốt, vấn đề mà Cảnh Cảnh năm 17 tuổi phải hỏi, Dư Hoài năm 17 tuổi trả lời.
+
+Rất lâu sau, Dư Hoài nhè nhẹ gật đầu. Bỗng chốc nước mắt tôi rơi ướt đẫm mặt.
+
+Thanh xuân là gì?
+
+Là những điều chưa dám nói,
+
+Những việc chưa dám làm,
+
+Những mơ hồ thoáng chốc chưa từng quên,
+
+Là khoảng thời gian không thể quay trở lại… dù chỉ một lần.
+
+Thanh xuân là gì? Là phát sáng cũng là tiếc nuối.
+
+Thanh xuân của chúng ta đều có một “ai đó”. Một cậu bạn cùng bàn bên được vây quanh bởi biết bao cô nàng, một cô bạn ngốc nghếch hay ngủ quên trong giờ học, hay thậm chí là một anh chàng lớp trên phía bên kia hành lang vẫn mỗi sáng rảo mắt qua phía bên này hành lang ấy. Ai cũng được và chỉ ở đó thôi... trong tim. Không hề dám mở lời kết bạn, mở lời yêu thương. Đem theo những cảm xúc non nớt với một tâm hồn mong manh của những cô cậu học sinh cấp 3 còn trẻ dại, chỉ dám đứng bên lề cuộc sống của người đó mà dõi theo, mà thương thầm nhớ trộm. Để rồi, những lời cần nói, không thể nói, những việc phải làm, lại không làm. Chỉ cho đến lúc thanh xuân từ lúc nào bỗng nhiên trôi qua vội vã, không một lời từ biệt, mới nhận ra rằng bản thân thực sự đã bỏ lỡ những gì.
+
+Tháng năm trôi đi, ai rồi cũng sẽ lớn. Chuyện ngày cũ, rồi chỉ là quá khứ mà thôi. Sớm muộn gì cũng mờ nhạt trong tâm trí, nhưng mỗi lần nghĩ lại chắc chắn đâu đó trong lòng vẫn còn rất nhiều những khoảng trống, những hoài niệm không tên. Nhưng cũng chẳng sao cả, bởi vì điều tuyệt vời nhất của thanh xuân chính là có một ai đó để đem theo trong tim đến mãi sau này. Điều tuyệt vời nhất của thanh xuân – câu chuyện thanh xuân không dành riêng cho ai. Mà dành cho thanh xuân của tất cả mọi người. Như một thước phim quay chậm, thật chậm, đọc Điều tuyệt vời nhất của thanh xuân để cùng bật cười với những ngốc xít, cùng bật khóc nơi những nuối tiếc và rồi nhắm mắt lại để thấy lòng mình trôi về những ngày thanh xuân đã và đang qua.
+
+“Điều tuyệt vời nhất của thanh xuân” là gì?
+
+Chẳng là gì cả! Chỉ là những mơ hồ như ánh mắt ấy, nụ cười ấy... Như cậu ấy!
+
+Vậy thôi!'  where id_sp=7] --> 
+28.06.2017 09:21:10 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:21:10 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:22:20 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:22:20 sql=[select * from dmsanpham] 
+28.06.2017 09:23:12 <!-- sql=[UPDATE sanpham   set id_dm='1',  ten_sp='Điều Tuyệt Vời Nhất Của Thanh Xuân (Trọn Bộ 2 Tập)', 	gia_sp='142400',  anh_sp='' , anh_sp='28-6-2017' ,	trang_thai='Sách Mới', 	khuyen_mai='-20%' ,	chi_tiet_sp='  Điều Tuyệt Vời Nhất Của Thanh Xuân
+
+“Dư Hoài”
+
+“Hử”
+
+“Trước đây cậu có thích tớ không?”
+
+Cậu ấy dịu dàng nhìn tôi, cười khì khì, cúi đầu gãi gãi gáy, giống như chàng trai 17 tuổi cấp 3 năm đó.
+
+Cũng tốt, vấn đề mà Cảnh Cảnh năm 17 tuổi phải hỏi, Dư Hoài năm 17 tuổi trả lời.
+
+Rất lâu sau, Dư Hoài nhè nhẹ gật đầu. Bỗng chốc nước mắt tôi rơi ướt đẫm mặt.
+
+Thanh xuân là gì?
+
+Là những điều chưa dám nói,
+
+Những việc chưa dám làm,
+
+Những mơ hồ thoáng chốc chưa từng quên,
+
+Là khoảng thời gian không thể quay trở lại… dù chỉ một lần.
+
+Thanh xuân là gì? Là phát sáng cũng là tiếc nuối.
+
+Thanh xuân của chúng ta đều có một “ai đó”. Một cậu bạn cùng bàn bên được vây quanh bởi biết bao cô nàng, một cô bạn ngốc nghếch hay ngủ quên trong giờ học, hay thậm chí là một anh chàng lớp trên phía bên kia hành lang vẫn mỗi sáng rảo mắt qua phía bên này hành lang ấy. Ai cũng được và chỉ ở đó thôi... trong tim. Không hề dám mở lời kết bạn, mở lời yêu thương. Đem theo những cảm xúc non nớt với một tâm hồn mong manh của những cô cậu học sinh cấp 3 còn trẻ dại, chỉ dám đứng bên lề cuộc sống của người đó mà dõi theo, mà thương thầm nhớ trộm. Để rồi, những lời cần nói, không thể nói, những việc phải làm, lại không làm. Chỉ cho đến lúc thanh xuân từ lúc nào bỗng nhiên trôi qua vội vã, không một lời từ biệt, mới nhận ra rằng bản thân thực sự đã bỏ lỡ những gì.
+
+Tháng năm trôi đi, ai rồi cũng sẽ lớn. Chuyện ngày cũ, rồi chỉ là quá khứ mà thôi. Sớm muộn gì cũng mờ nhạt trong tâm trí, nhưng mỗi lần nghĩ lại chắc chắn đâu đó trong lòng vẫn còn rất nhiều những khoảng trống, những hoài niệm không tên. Nhưng cũng chẳng sao cả, bởi vì điều tuyệt vời nhất của thanh xuân chính là có một ai đó để đem theo trong tim đến mãi sau này. Điều tuyệt vời nhất của thanh xuân – câu chuyện thanh xuân không dành riêng cho ai. Mà dành cho thanh xuân của tất cả mọi người. Như một thước phim quay chậm, thật chậm, đọc Điều tuyệt vời nhất của thanh xuân để cùng bật cười với những ngốc xít, cùng bật khóc nơi những nuối tiếc và rồi nhắm mắt lại để thấy lòng mình trôi về những ngày thanh xuân đã và đang qua.
+
+“Điều tuyệt vời nhất của thanh xuân” là gì?
+
+Chẳng là gì cả! Chỉ là những mơ hồ như ánh mắt ấy, nụ cười ấy... Như cậu ấy!
+
+Vậy thôi!'  where id_sp=7] --> 
+28.06.2017 09:23:12 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:23:12 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:23:14 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:23:14 sql=[select * from dmsanpham] 
+28.06.2017 09:24:14 <!-- sql=[UPDATE sanpham   set id_dm='1',  ten_sp='Điều Tuyệt Vời Nhất Của Thanh Xuân (Trọn Bộ 2 Tập)', 	gia_sp='142400',  anh_sp='dieu-tuyet-voi-nhat-cua-tuoi-thanh-xuan-2__47354_image2_800_big.jpg' , date='28-6-2017' ,	trang_thai='Sách Mới', 	khuyen_mai='-20%' ,	chi_tiet_sp='   Điều Tuyệt Vời Nhất Của Thanh Xuân
+
+“Dư Hoài”
+
+“Hử”
+
+“Trước đây cậu có thích tớ không?”
+
+Cậu ấy dịu dàng nhìn tôi, cười khì khì, cúi đầu gãi gãi gáy, giống như chàng trai 17 tuổi cấp 3 năm đó.
+
+Cũng tốt, vấn đề mà Cảnh Cảnh năm 17 tuổi phải hỏi, Dư Hoài năm 17 tuổi trả lời.
+
+Rất lâu sau, Dư Hoài nhè nhẹ gật đầu. Bỗng chốc nước mắt tôi rơi ướt đẫm mặt.
+
+Thanh xuân là gì?
+
+Là những điều chưa dám nói,
+
+Những việc chưa dám làm,
+
+Những mơ hồ thoáng chốc chưa từng quên,
+
+Là khoảng thời gian không thể quay trở lại… dù chỉ một lần.
+
+Thanh xuân là gì? Là phát sáng cũng là tiếc nuối.
+
+Thanh xuân của chúng ta đều có một “ai đó”. Một cậu bạn cùng bàn bên được vây quanh bởi biết bao cô nàng, một cô bạn ngốc nghếch hay ngủ quên trong giờ học, hay thậm chí là một anh chàng lớp trên phía bên kia hành lang vẫn mỗi sáng rảo mắt qua phía bên này hành lang ấy. Ai cũng được và chỉ ở đó thôi... trong tim. Không hề dám mở lời kết bạn, mở lời yêu thương. Đem theo những cảm xúc non nớt với một tâm hồn mong manh của những cô cậu học sinh cấp 3 còn trẻ dại, chỉ dám đứng bên lề cuộc sống của người đó mà dõi theo, mà thương thầm nhớ trộm. Để rồi, những lời cần nói, không thể nói, những việc phải làm, lại không làm. Chỉ cho đến lúc thanh xuân từ lúc nào bỗng nhiên trôi qua vội vã, không một lời từ biệt, mới nhận ra rằng bản thân thực sự đã bỏ lỡ những gì.
+
+Tháng năm trôi đi, ai rồi cũng sẽ lớn. Chuyện ngày cũ, rồi chỉ là quá khứ mà thôi. Sớm muộn gì cũng mờ nhạt trong tâm trí, nhưng mỗi lần nghĩ lại chắc chắn đâu đó trong lòng vẫn còn rất nhiều những khoảng trống, những hoài niệm không tên. Nhưng cũng chẳng sao cả, bởi vì điều tuyệt vời nhất của thanh xuân chính là có một ai đó để đem theo trong tim đến mãi sau này. Điều tuyệt vời nhất của thanh xuân – câu chuyện thanh xuân không dành riêng cho ai. Mà dành cho thanh xuân của tất cả mọi người. Như một thước phim quay chậm, thật chậm, đọc Điều tuyệt vời nhất của thanh xuân để cùng bật cười với những ngốc xít, cùng bật khóc nơi những nuối tiếc và rồi nhắm mắt lại để thấy lòng mình trôi về những ngày thanh xuân đã và đang qua.
+
+“Điều tuyệt vời nhất của thanh xuân” là gì?
+
+Chẳng là gì cả! Chỉ là những mơ hồ như ánh mắt ấy, nụ cười ấy... Như cậu ấy!
+
+Vậy thôi!'  where id_sp=7] --> 
+28.06.2017 09:24:14 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:24:14 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:24:22 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:24:22 sql=[select * from dmsanpham] 
+28.06.2017 09:24:37 <!-- sql=[UPDATE sanpham   set id_dm='1',  ten_sp='Điều Tuyệt Vời Nhất Của Thanh Xuân (Trọn Bộ 2 Tập)', 	gia_sp='142400',  anh_sp='dieu-tuyet-voi-nhat-cua-tuoi-thanh-xuan-2__47354_image2_800_big.jpg' , date='28-6-2017' ,	trang_thai='Sách Mới', 	khuyen_mai='-20%' ,	chi_tiet_sp='    Điều Tuyệt Vời Nhất Của Thanh Xuân
+
+“Dư Hoài”
+
+“Hử”
+
+“Trước đây cậu có thích tớ không?”
+
+Cậu ấy dịu dàng nhìn tôi, cười khì khì, cúi đầu gãi gãi gáy, giống như chàng trai 17 tuổi cấp 3 năm đó.
+
+Cũng tốt, vấn đề mà Cảnh Cảnh năm 17 tuổi phải hỏi, Dư Hoài năm 17 tuổi trả lời.
+
+Rất lâu sau, Dư Hoài nhè nhẹ gật đầu. Bỗng chốc nước mắt tôi rơi ướt đẫm mặt.
+
+Thanh xuân là gì?
+
+Là những điều chưa dám nói,
+
+Những việc chưa dám làm,
+
+Những mơ hồ thoáng chốc chưa từng quên,
+
+Là khoảng thời gian không thể quay trở lại… dù chỉ một lần.
+
+Thanh xuân là gì? Là phát sáng cũng là tiếc nuối.
+
+Thanh xuân của chúng ta đều có một “ai đó”. Một cậu bạn cùng bàn bên được vây quanh bởi biết bao cô nàng, một cô bạn ngốc nghếch hay ngủ quên trong giờ học, hay thậm chí là một anh chàng lớp trên phía bên kia hành lang vẫn mỗi sáng rảo mắt qua phía bên này hành lang ấy. Ai cũng được và chỉ ở đó thôi... trong tim. Không hề dám mở lời kết bạn, mở lời yêu thương. Đem theo những cảm xúc non nớt với một tâm hồn mong manh của những cô cậu học sinh cấp 3 còn trẻ dại, chỉ dám đứng bên lề cuộc sống của người đó mà dõi theo, mà thương thầm nhớ trộm. Để rồi, những lời cần nói, không thể nói, những việc phải làm, lại không làm. Chỉ cho đến lúc thanh xuân từ lúc nào bỗng nhiên trôi qua vội vã, không một lời từ biệt, mới nhận ra rằng bản thân thực sự đã bỏ lỡ những gì.
+
+Tháng năm trôi đi, ai rồi cũng sẽ lớn. Chuyện ngày cũ, rồi chỉ là quá khứ mà thôi. Sớm muộn gì cũng mờ nhạt trong tâm trí, nhưng mỗi lần nghĩ lại chắc chắn đâu đó trong lòng vẫn còn rất nhiều những khoảng trống, những hoài niệm không tên. Nhưng cũng chẳng sao cả, bởi vì điều tuyệt vời nhất của thanh xuân chính là có một ai đó để đem theo trong tim đến mãi sau này. Điều tuyệt vời nhất của thanh xuân – câu chuyện thanh xuân không dành riêng cho ai. Mà dành cho thanh xuân của tất cả mọi người. Như một thước phim quay chậm, thật chậm, đọc Điều tuyệt vời nhất của thanh xuân để cùng bật cười với những ngốc xít, cùng bật khóc nơi những nuối tiếc và rồi nhắm mắt lại để thấy lòng mình trôi về những ngày thanh xuân đã và đang qua.
+
+“Điều tuyệt vời nhất của thanh xuân” là gì?
+
+Chẳng là gì cả! Chỉ là những mơ hồ như ánh mắt ấy, nụ cười ấy... Như cậu ấy!
+
+Vậy thôi!'  where id_sp=7] --> 
+28.06.2017 09:24:37 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:24:37 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:26:43 sql=[select * from sanpham where id_sp=7] 
+28.06.2017 09:26:43 sql=[select * from dmsanpham] 
+28.06.2017 09:27:16 <!-- sql=[UPDATE sanpham   set id_dm='1',  ten_sp='Điều Tuyệt Vời Nhất Của Thanh Xuân (Trọn Bộ 2 Tập)', 	gia_sp='142400',  anh_sp='dieu-tuyet-voi-nhat-cua-tuoi-thanh-xuan-2__47354_image2_800_big.jpg' , date='2017-06-28' ,	trang_thai='Sách Mới', 	khuyen_mai='-20%' ,	chi_tiet_sp='     Điều Tuyệt Vời Nhất Của Thanh Xuân
+
+“Dư Hoài”
+
+“Hử”
+
+“Trước đây cậu có thích tớ không?”
+
+Cậu ấy dịu dàng nhìn tôi, cười khì khì, cúi đầu gãi gãi gáy, giống như chàng trai 17 tuổi cấp 3 năm đó.
+
+Cũng tốt, vấn đề mà Cảnh Cảnh năm 17 tuổi phải hỏi, Dư Hoài năm 17 tuổi trả lời.
+
+Rất lâu sau, Dư Hoài nhè nhẹ gật đầu. Bỗng chốc nước mắt tôi rơi ướt đẫm mặt.
+
+Thanh xuân là gì?
+
+Là những điều chưa dám nói,
+
+Những việc chưa dám làm,
+
+Những mơ hồ thoáng chốc chưa từng quên,
+
+Là khoảng thời gian không thể quay trở lại… dù chỉ một lần.
+
+Thanh xuân là gì? Là phát sáng cũng là tiếc nuối.
+
+Thanh xuân của chúng ta đều có một “ai đó”. Một cậu bạn cùng bàn bên được vây quanh bởi biết bao cô nàng, một cô bạn ngốc nghếch hay ngủ quên trong giờ học, hay thậm chí là một anh chàng lớp trên phía bên kia hành lang vẫn mỗi sáng rảo mắt qua phía bên này hành lang ấy. Ai cũng được và chỉ ở đó thôi... trong tim. Không hề dám mở lời kết bạn, mở lời yêu thương. Đem theo những cảm xúc non nớt với một tâm hồn mong manh của những cô cậu học sinh cấp 3 còn trẻ dại, chỉ dám đứng bên lề cuộc sống của người đó mà dõi theo, mà thương thầm nhớ trộm. Để rồi, những lời cần nói, không thể nói, những việc phải làm, lại không làm. Chỉ cho đến lúc thanh xuân từ lúc nào bỗng nhiên trôi qua vội vã, không một lời từ biệt, mới nhận ra rằng bản thân thực sự đã bỏ lỡ những gì.
+
+Tháng năm trôi đi, ai rồi cũng sẽ lớn. Chuyện ngày cũ, rồi chỉ là quá khứ mà thôi. Sớm muộn gì cũng mờ nhạt trong tâm trí, nhưng mỗi lần nghĩ lại chắc chắn đâu đó trong lòng vẫn còn rất nhiều những khoảng trống, những hoài niệm không tên. Nhưng cũng chẳng sao cả, bởi vì điều tuyệt vời nhất của thanh xuân chính là có một ai đó để đem theo trong tim đến mãi sau này. Điều tuyệt vời nhất của thanh xuân – câu chuyện thanh xuân không dành riêng cho ai. Mà dành cho thanh xuân của tất cả mọi người. Như một thước phim quay chậm, thật chậm, đọc Điều tuyệt vời nhất của thanh xuân để cùng bật cười với những ngốc xít, cùng bật khóc nơi những nuối tiếc và rồi nhắm mắt lại để thấy lòng mình trôi về những ngày thanh xuân đã và đang qua.
+
+“Điều tuyệt vời nhất của thanh xuân” là gì?
+
+Chẳng là gì cả! Chỉ là những mơ hồ như ánh mắt ấy, nụ cười ấy... Như cậu ấy!
+
+Vậy thôi!'  where id_sp=7] --> 
+28.06.2017 09:27:16 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:27:16 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:28:39 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:28:39 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:30:10 sql=[ select * from dmsanpham] 
+28.06.2017 09:30:46 sql=[select * from dmsanpham] 
+28.06.2017 09:31:48 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Carol', 	'90720', 	'27-6-2017',  'carol__39275.jpg', 	'-19%' ,	'Sách Mới', 	'Carol
+
+Lần đầu tiên nhìn thấy Carol ở trung tâm mua sắm mà cô đang làm việc, Therese Belivet biết rằng mình đã yêu mặc dù lúc đó cô đang quen một anh chàng tên Richard. Đó là một tình yêu không cần cắt nghĩa, không cần lý giải, và cũng không cần trăn trở, nó đến với cô tự nhiên như nên thế.
+
+Đặt trong bối cảnh nước Mỹ những năm 50, nơi bạn có thể nhận được tấm thiệp Giáng Sinh từ một người xa lạ, nơi bạn có thể mời một người mới quen đi uống cà phê, nơi mà tình yêu giữa hai con người cùng giới tính vẫn còn chịu nhiều điều tiếng, Carol là một câu chuyện tình vừa hiện thực lại vừa lãng mạn giữa Therese Belivet, một nhân viên thu ngân mơ làm nhà thiết kế sân khấu, và Carol, một người phụ nữ giàu có đang chuẩn bị ly dị chồng.
+
+Đi ngược lại với những kết thúc buồn thảm trong các cuốn truyện cùng đề tài đương thời, Carol mang đến một cái kết hy vọng cho các cặp đôi đồng tính nữ. Xuất bản từ năm 1952, cho đến giờ, Carol vẫn được xem là một trong những cuốn tiểu thuyết kinh điển về đề tài này.' )] --> 
+28.06.2017 09:31:55 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Carol', 	'90720', 	'27-6-2017',  'carol__39275.jpg', 	'-19%' ,	'Sách Mới', 	'Carol
+
+Lần đầu tiên nhìn thấy Carol ở trung tâm mua sắm mà cô đang làm việc, Therese Belivet biết rằng mình đã yêu mặc dù lúc đó cô đang quen một anh chàng tên Richard. Đó là một tình yêu không cần cắt nghĩa, không cần lý giải, và cũng không cần trăn trở, nó đến với cô tự nhiên như nên thế.
+
+Đặt trong bối cảnh nước Mỹ những năm 50, nơi bạn có thể nhận được tấm thiệp Giáng Sinh từ một người xa lạ, nơi bạn có thể mời một người mới quen đi uống cà phê, nơi mà tình yêu giữa hai con người cùng giới tính vẫn còn chịu nhiều điều tiếng, Carol là một câu chuyện tình vừa hiện thực lại vừa lãng mạn giữa Therese Belivet, một nhân viên thu ngân mơ làm nhà thiết kế sân khấu, và Carol, một người phụ nữ giàu có đang chuẩn bị ly dị chồng.
+
+Đi ngược lại với những kết thúc buồn thảm trong các cuốn truyện cùng đề tài đương thời, Carol mang đến một cái kết hy vọng cho các cặp đôi đồng tính nữ. Xuất bản từ năm 1952, cho đến giờ, Carol vẫn được xem là một trong những cuốn tiểu thuyết kinh điển về đề tài này.' )] --> 
+28.06.2017 09:32:06 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Carol', 	'90720', 	'27-6-2017',  'carol__39275.jpg', 	'-19%' ,	'Sách Mới', 	'Carol
+
+Lần đầu tiên nhìn thấy Carol ở trung tâm mua sắm mà cô đang làm việc, Therese Belivet biết rằng mình đã yêu mặc dù lúc đó cô đang quen một anh chàng tên Richard. Đó là một tình yêu không cần cắt nghĩa, không cần lý giải, và cũng không cần trăn trở, nó đến với cô tự nhiên như nên thế.
+
+Đặt trong bối cảnh nước Mỹ những năm 50, nơi bạn có thể nhận được tấm thiệp Giáng Sinh từ một người xa lạ, nơi bạn có thể mời một người mới quen đi uống cà phê, nơi mà tình yêu giữa hai con người cùng giới tính vẫn còn chịu nhiều điều tiếng, Carol là một câu chuyện tình vừa hiện thực lại vừa lãng mạn giữa Therese Belivet, một nhân viên thu ngân mơ làm nhà thiết kế sân khấu, và Carol, một người phụ nữ giàu có đang chuẩn bị ly dị chồng.
+
+Đi ngược lại với những kết thúc buồn thảm trong các cuốn truyện cùng đề tài đương thời, Carol mang đến một cái kết hy vọng cho các cặp đôi đồng tính nữ. Xuất bản từ năm 1952, cho đến giờ, Carol vẫn được xem là một trong những cuốn tiểu thuyết kinh điển về đề tài này.' )] --> 
+28.06.2017 09:32:09 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Carol', 	'90720', 	'27-6-2017',  'carol__39275.jpg', 	'-19%' ,	'Sách Mới', 	'Carol
+
+Lần đầu tiên nhìn thấy Carol ở trung tâm mua sắm mà cô đang làm việc, Therese Belivet biết rằng mình đã yêu mặc dù lúc đó cô đang quen một anh chàng tên Richard. Đó là một tình yêu không cần cắt nghĩa, không cần lý giải, và cũng không cần trăn trở, nó đến với cô tự nhiên như nên thế.
+
+Đặt trong bối cảnh nước Mỹ những năm 50, nơi bạn có thể nhận được tấm thiệp Giáng Sinh từ một người xa lạ, nơi bạn có thể mời một người mới quen đi uống cà phê, nơi mà tình yêu giữa hai con người cùng giới tính vẫn còn chịu nhiều điều tiếng, Carol là một câu chuyện tình vừa hiện thực lại vừa lãng mạn giữa Therese Belivet, một nhân viên thu ngân mơ làm nhà thiết kế sân khấu, và Carol, một người phụ nữ giàu có đang chuẩn bị ly dị chồng.
+
+Đi ngược lại với những kết thúc buồn thảm trong các cuốn truyện cùng đề tài đương thời, Carol mang đến một cái kết hy vọng cho các cặp đôi đồng tính nữ. Xuất bản từ năm 1952, cho đến giờ, Carol vẫn được xem là một trong những cuốn tiểu thuyết kinh điển về đề tài này.' )] --> 
+28.06.2017 09:32:13 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'', 	'0', 	'',  '', 	'' ,	'', 	'' )] --> 
+28.06.2017 09:32:34 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:32:34 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:32:38 sql=[select * from sanpham 
+	where id_sp=12] 
+28.06.2017 09:32:40 <!-- sql=[delete from sanpham   WHERE id_sp = 12] --> 
+28.06.2017 09:32:40 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:32:40 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:32:42 sql=[select * from sanpham 
+	where id_sp=11] 
+28.06.2017 09:32:44 <!-- sql=[delete from sanpham   WHERE id_sp = 11] --> 
+28.06.2017 09:32:44 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:32:44 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:32:45 sql=[select * from sanpham 
+	where id_sp=10] 
+28.06.2017 09:32:47 <!-- sql=[delete from sanpham   WHERE id_sp = 10] --> 
+28.06.2017 09:32:47 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:32:47 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:32:49 sql=[select * from sanpham where id_sp=9] 
+28.06.2017 09:32:49 sql=[select * from dmsanpham] 
+28.06.2017 09:33:05 <!-- sql=[UPDATE sanpham   set id_dm='1',  ten_sp='Carol', 	gia_sp='90720',  anh_sp='carol__39275.jpg' , date='2017-06-28' ,	trang_thai='Sách Mới', 	khuyen_mai='carol__39275.jpg' ,	chi_tiet_sp=' Carol
+
+Lần đầu tiên nhìn thấy Carol ở trung tâm mua sắm mà cô đang làm việc, Therese Belivet biết rằng mình đã yêu mặc dù lúc đó cô đang quen một anh chàng tên Richard. Đó là một tình yêu không cần cắt nghĩa, không cần lý giải, và cũng không cần trăn trở, nó đến với cô tự nhiên như nên thế.
+
+Đặt trong bối cảnh nước Mỹ những năm 50, nơi bạn có thể nhận được tấm thiệp Giáng Sinh từ một người xa lạ, nơi bạn có thể mời một người mới quen đi uống cà phê, nơi mà tình yêu giữa hai con người cùng giới tính vẫn còn chịu nhiều điều tiếng, Carol là một câu chuyện tình vừa hiện thực lại vừa lãng mạn giữa Therese Belivet, một nhân viên thu ngân mơ làm nhà thiết kế sân khấu, và Carol, một người phụ nữ giàu có đang chuẩn bị ly dị chồng.
+
+Đi ngược lại với những kết thúc buồn thảm trong các cuốn truyện cùng đề tài đương thời, Carol mang đến một cái kết hy vọng cho các cặp đôi đồng tính nữ. Xuất bản từ năm 1952, cho đến giờ, Carol vẫn được xem là một trong những cuốn tiểu thuyết kinh điển về đề tài này.'  where id_sp=9] --> 
+28.06.2017 09:33:05 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:33:05 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:34:22 sql=[select * from dmsanpham] 
+28.06.2017 09:35:23 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:35:23 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:35:24 sql=[select * from dmsanpham] 
+28.06.2017 09:36:06 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:36:06 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:36:08 sql=[select * from sanpham where id_sp=9] 
+28.06.2017 09:36:08 sql=[select * from dmsanpham] 
+28.06.2017 09:36:10 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:36:10 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:37:31 sql=[select * from sanpham where id_sp=9] 
+28.06.2017 09:37:31 sql=[select * from dmsanpham] 
+28.06.2017 09:41:01 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Ngôi Nhà Của Người Cá Say Ngủ', 	'80000', 	'30-06-2017',  'ngoi-nha-cua-nguoi-ca-say-ngu__83284.jpg', 	'-20%' ,	'sắp phát hành', 	'Ngôi Nhà Của Người Cá Say Ngủ
+
+Tác phẩm kỉ niệm 30 năm cầm bút của Bậc thầy trinh thám số 1 Nhật Bản. Đồng thời được vinh danh trong top 10 sách văn học bán chạy nhất năm 2015 và 2016 theo thống kê từ NIPPAN.
+
+Nhà văn Keigo Higashino trở lại với một tác phẩm về tâm lý xã hội và y học đầy trăn trở và suy tư. Vẫn còn đó sự tò mò và hồi hộp nhưng lại thêm vào  những diễn biến tâm lý xã hội sâu sắc về ranh giới giữa sự sống và cái chết.
+
+Xoay quanh câu chuyện về một cặp vợ chồng dự định sẽ ly hôn sau khi cô con gái Mizuko vào cấp một.Nhưng tin dữ ập đến, một tai nạn bất ngờ không may ập đến với cô bé ở bể bơi. Nhưng sự thật còn đau đớn hơn gấp bội khi đứa con gái duy nhất của họ đã chết não nhưng trái tim vẫn còn đập bởi một sức mạnh kì lạ.
+
+Chính vào giây phút dấu hiệu của sự sống đang lụi tàn dần, cha mẹ cô bé phải tiếp nhận một sự thật tàn khốc: có nên hiến tạng của cô bé hay không?
+
+Trái tim cô bé vẫn còn đang đập và những ràng buộc riêng trên mặt luật pháp đã không cho vị bác sĩ nào dám khẳng định cô bé đã tử vong. Họ buộc lựa chọn tiếp tục chăm sóc đứa con gái đã rơi vào trạng thái thực vật hay buông tay, chấp nhận hiến tạng đứa con gái yêu duy nhất?
+
+Tất cả tạo nên một chuỗi những âu lo với bố mẹ cô bé :“Vậy kẻ hại chết con gái tôi sẽ là tôi sao? Không chỉ là những trăn trở về mặt pháp luật mà còn nhen nhóm hi vọng mong manh rằng chỉ cần trái tim còn đập thì một ngày kia cô bé sẽ dần lấy lại ý thức?.
+
+“Liệu cố gắng níu giữ sự “sự tồn tại” của một người đã chết có ý nghĩa gì? Hay đây chỉ là sự ích kỷ của bản thân họ khi từ chối hiến tạng con gái mình?. Điều này đã khiến người mẹ đã có những ý nghĩ không thấu đáo nhất thời nhưng cuối cùng...
+
+Nhà văn Keigo đã khéo léo gợi nhắc một khía cạnh nhức nhối không chỉ tồn tại trong xã hội Nhật Bản mà còn có giá trị hiện thực ở nhiều nơi trên thế giới về vấn đề hiến tạng.
+
+Cuốn sách còn giống như một lời gợi nhắc về tình cảm gia đình, về tấm lòng của những người làm cha làm mẹ dành cho những đứa con của mình. Gia đình là nơi không ngừng yêu thương và không bao giờ nói bỏ cuộc. Rõ ràng chỉ có yêu thương mới khiến người ta trăn trở đến thế, muốn cố gắng hết sức để cứu con gái yêu duy nhất. Giống như người cá vậy, cô bé Mizuko có một trái tim thật đẹp, những nhịp đập yếu ớt vẫn muốn gửi gắm đến cha mẹ tình yêu chưa một lần nói ra.
+
+Một lần nữa nhà văn Keigo Higashino lại khiến người đọc trăn trở trong từng câu văn, từng hình ảnh, từng cung bậc cảm xúc và để lại trong lòng độc giả câu hỏi day dứt “Nếu bạn ở trong hoàn cảnh ấy, liệu bạn sẽ lựa chọn ra sao?” và có lẽ đáp án lại tùy thuộc vào cách nghĩ của mỗi người.' )] --> 
+28.06.2017 09:41:47 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Ngôi Nhà Của Người Cá Say Ngủ', 	'80000', 	'30-06-2017',  'ngoi-nha-cua-nguoi-ca-say-ngu__83284.jpg', 	'-20%' ,	'sắp phát hành', 	'Ngôi Nhà Của Người Cá Say Ngủ
+
+Tác phẩm kỉ niệm 30 năm cầm bút của Bậc thầy trinh thám số 1 Nhật Bản. Đồng thời được vinh danh trong top 10 sách văn học bán chạy nhất năm 2015 và 2016 theo thống kê từ NIPPAN.
+
+Nhà văn Keigo Higashino trở lại với một tác phẩm về tâm lý xã hội và y học đầy trăn trở và suy tư. Vẫn còn đó sự tò mò và hồi hộp nhưng lại thêm vào  những diễn biến tâm lý xã hội sâu sắc về ranh giới giữa sự sống và cái chết.
+
+Xoay quanh câu chuyện về một cặp vợ chồng dự định sẽ ly hôn sau khi cô con gái Mizuko vào cấp một.Nhưng tin dữ ập đến, một tai nạn bất ngờ không may ập đến với cô bé ở bể bơi. Nhưng sự thật còn đau đớn hơn gấp bội khi đứa con gái duy nhất của họ đã chết não nhưng trái tim vẫn còn đập bởi một sức mạnh kì lạ.
+
+Chính vào giây phút dấu hiệu của sự sống đang lụi tàn dần, cha mẹ cô bé phải tiếp nhận một sự thật tàn khốc: có nên hiến tạng của cô bé hay không?
+
+Trái tim cô bé vẫn còn đang đập và những ràng buộc riêng trên mặt luật pháp đã không cho vị bác sĩ nào dám khẳng định cô bé đã tử vong. Họ buộc lựa chọn tiếp tục chăm sóc đứa con gái đã rơi vào trạng thái thực vật hay buông tay, chấp nhận hiến tạng đứa con gái yêu duy nhất?
+
+Tất cả tạo nên một chuỗi những âu lo với bố mẹ cô bé :“Vậy kẻ hại chết con gái tôi sẽ là tôi sao? Không chỉ là những trăn trở về mặt pháp luật mà còn nhen nhóm hi vọng mong manh rằng chỉ cần trái tim còn đập thì một ngày kia cô bé sẽ dần lấy lại ý thức?.
+
+“Liệu cố gắng níu giữ sự “sự tồn tại” của một người đã chết có ý nghĩa gì? Hay đây chỉ là sự ích kỷ của bản thân họ khi từ chối hiến tạng con gái mình?. Điều này đã khiến người mẹ đã có những ý nghĩ không thấu đáo nhất thời nhưng cuối cùng...
+
+Nhà văn Keigo đã khéo léo gợi nhắc một khía cạnh nhức nhối không chỉ tồn tại trong xã hội Nhật Bản mà còn có giá trị hiện thực ở nhiều nơi trên thế giới về vấn đề hiến tạng.
+
+Cuốn sách còn giống như một lời gợi nhắc về tình cảm gia đình, về tấm lòng của những người làm cha làm mẹ dành cho những đứa con của mình. Gia đình là nơi không ngừng yêu thương và không bao giờ nói bỏ cuộc. Rõ ràng chỉ có yêu thương mới khiến người ta trăn trở đến thế, muốn cố gắng hết sức để cứu con gái yêu duy nhất. Giống như người cá vậy, cô bé Mizuko có một trái tim thật đẹp, những nhịp đập yếu ớt vẫn muốn gửi gắm đến cha mẹ tình yêu chưa một lần nói ra.
+
+Một lần nữa nhà văn Keigo Higashino lại khiến người đọc trăn trở trong từng câu văn, từng hình ảnh, từng cung bậc cảm xúc và để lại trong lòng độc giả câu hỏi day dứt “Nếu bạn ở trong hoàn cảnh ấy, liệu bạn sẽ lựa chọn ra sao?” và có lẽ đáp án lại tùy thuộc vào cách nghĩ của mỗi người.' )] --> 
+28.06.2017 09:42:07 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'2', 	'Ngôi Nhà Của Người Cá Say Ngủ', 	'80000', 	'30-06-2017',  'ngoi-nha-cua-nguoi-ca-say-ngu__83284.jpg', 	'-20%' ,	'sắp phát hành', 	'Ngôi Nhà Của Người Cá Say Ngủ
+
+Tác phẩm kỉ niệm 30 năm cầm bút của Bậc thầy trinh thám số 1 Nhật Bản. Đồng thời được vinh danh trong top 10 sách văn học bán chạy nhất năm 2015 và 2016 theo thống kê từ NIPPAN.
+
+Nhà văn Keigo Higashino trở lại với một tác phẩm về tâm lý xã hội và y học đầy trăn trở và suy tư. Vẫn còn đó sự tò mò và hồi hộp nhưng lại thêm vào  những diễn biến tâm lý xã hội sâu sắc về ranh giới giữa sự sống và cái chết.
+
+Xoay quanh câu chuyện về một cặp vợ chồng dự định sẽ ly hôn sau khi cô con gái Mizuko vào cấp một.Nhưng tin dữ ập đến, một tai nạn bất ngờ không may ập đến với cô bé ở bể bơi. Nhưng sự thật còn đau đớn hơn gấp bội khi đứa con gái duy nhất của họ đã chết não nhưng trái tim vẫn còn đập bởi một sức mạnh kì lạ.
+
+Chính vào giây phút dấu hiệu của sự sống đang lụi tàn dần, cha mẹ cô bé phải tiếp nhận một sự thật tàn khốc: có nên hiến tạng của cô bé hay không?
+
+Trái tim cô bé vẫn còn đang đập và những ràng buộc riêng trên mặt luật pháp đã không cho vị bác sĩ nào dám khẳng định cô bé đã tử vong. Họ buộc lựa chọn tiếp tục chăm sóc đứa con gái đã rơi vào trạng thái thực vật hay buông tay, chấp nhận hiến tạng đứa con gái yêu duy nhất?
+
+Tất cả tạo nên một chuỗi những âu lo với bố mẹ cô bé :“Vậy kẻ hại chết con gái tôi sẽ là tôi sao? Không chỉ là những trăn trở về mặt pháp luật mà còn nhen nhóm hi vọng mong manh rằng chỉ cần trái tim còn đập thì một ngày kia cô bé sẽ dần lấy lại ý thức?.
+
+“Liệu cố gắng níu giữ sự “sự tồn tại” của một người đã chết có ý nghĩa gì? Hay đây chỉ là sự ích kỷ của bản thân họ khi từ chối hiến tạng con gái mình?. Điều này đã khiến người mẹ đã có những ý nghĩ không thấu đáo nhất thời nhưng cuối cùng...
+
+Nhà văn Keigo đã khéo léo gợi nhắc một khía cạnh nhức nhối không chỉ tồn tại trong xã hội Nhật Bản mà còn có giá trị hiện thực ở nhiều nơi trên thế giới về vấn đề hiến tạng.
+
+Cuốn sách còn giống như một lời gợi nhắc về tình cảm gia đình, về tấm lòng của những người làm cha làm mẹ dành cho những đứa con của mình. Gia đình là nơi không ngừng yêu thương và không bao giờ nói bỏ cuộc. Rõ ràng chỉ có yêu thương mới khiến người ta trăn trở đến thế, muốn cố gắng hết sức để cứu con gái yêu duy nhất. Giống như người cá vậy, cô bé Mizuko có một trái tim thật đẹp, những nhịp đập yếu ớt vẫn muốn gửi gắm đến cha mẹ tình yêu chưa một lần nói ra.
+
+Một lần nữa nhà văn Keigo Higashino lại khiến người đọc trăn trở trong từng câu văn, từng hình ảnh, từng cung bậc cảm xúc và để lại trong lòng độc giả câu hỏi day dứt “Nếu bạn ở trong hoàn cảnh ấy, liệu bạn sẽ lựa chọn ra sao?” và có lẽ đáp án lại tùy thuộc vào cách nghĩ của mỗi người.' )] --> 
+28.06.2017 09:42:30 <!-- sql=[INSERT INTO sanpham (id_dm,ten_sp,gia_sp,anh_sp,khuyen_mai,date,trang_thai,chi_tiet_sp)  VALUES (	'0', 	'', 	'0', 	'',  '', 	'' ,	'', 	'' )] --> 
+28.06.2017 09:42:32 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:42:32 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:42:35 sql=[select * from sanpham 
+	where id_sp=15] 
+28.06.2017 09:42:39 <!-- sql=[delete from sanpham   WHERE id_sp = 15] --> 
+28.06.2017 09:42:39 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:42:39 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:42:40 sql=[select * from sanpham 
+	where id_sp=16] 
+28.06.2017 09:42:43 <!-- sql=[delete from sanpham   WHERE id_sp = 16] --> 
+28.06.2017 09:42:43 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:42:43 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:42:45 sql=[select * from sanpham where id_sp=14] 
+28.06.2017 09:42:45 sql=[select * from dmsanpham] 
+28.06.2017 09:42:51 <!-- sql=[UPDATE sanpham   set id_dm='1',  ten_sp='Ngôi Nhà Của Người Cá Say Ngủ', 	gia_sp='80000',  anh_sp='ngoi-nha-cua-nguoi-ca-say-ngu__83284.jpg' , date='' ,	trang_thai='sắp phát hành', 	khuyen_mai='ngoi-nha-cua-nguoi-ca-say-ngu__83284.jpg' ,	chi_tiet_sp=' Ngôi Nhà Của Người Cá Say Ngủ
+
+Tác phẩm kỉ niệm 30 năm cầm bút của Bậc thầy trinh thám số 1 Nhật Bản. Đồng thời được vinh danh trong top 10 sách văn học bán chạy nhất năm 2015 và 2016 theo thống kê từ NIPPAN.
+
+Nhà văn Keigo Higashino trở lại với một tác phẩm về tâm lý xã hội và y học đầy trăn trở và suy tư. Vẫn còn đó sự tò mò và hồi hộp nhưng lại thêm vào  những diễn biến tâm lý xã hội sâu sắc về ranh giới giữa sự sống và cái chết.
+
+Xoay quanh câu chuyện về một cặp vợ chồng dự định sẽ ly hôn sau khi cô con gái Mizuko vào cấp một.Nhưng tin dữ ập đến, một tai nạn bất ngờ không may ập đến với cô bé ở bể bơi. Nhưng sự thật còn đau đớn hơn gấp bội khi đứa con gái duy nhất của họ đã chết não nhưng trái tim vẫn còn đập bởi một sức mạnh kì lạ.
+
+Chính vào giây phút dấu hiệu của sự sống đang lụi tàn dần, cha mẹ cô bé phải tiếp nhận một sự thật tàn khốc: có nên hiến tạng của cô bé hay không?
+
+Trái tim cô bé vẫn còn đang đập và những ràng buộc riêng trên mặt luật pháp đã không cho vị bác sĩ nào dám khẳng định cô bé đã tử vong. Họ buộc lựa chọn tiếp tục chăm sóc đứa con gái đã rơi vào trạng thái thực vật hay buông tay, chấp nhận hiến tạng đứa con gái yêu duy nhất?
+
+Tất cả tạo nên một chuỗi những âu lo với bố mẹ cô bé :“Vậy kẻ hại chết con gái tôi sẽ là tôi sao? Không chỉ là những trăn trở về mặt pháp luật mà còn nhen nhóm hi vọng mong manh rằng chỉ cần trái tim còn đập thì một ngày kia cô bé sẽ dần lấy lại ý thức?.
+
+“Liệu cố gắng níu giữ sự “sự tồn tại” của một người đã chết có ý nghĩa gì? Hay đây chỉ là sự ích kỷ của bản thân họ khi từ chối hiến tạng con gái mình?. Điều này đã khiến người mẹ đã có những ý nghĩ không thấu đáo nhất thời nhưng cuối cùng...
+
+Nhà văn Keigo đã khéo léo gợi nhắc một khía cạnh nhức nhối không chỉ tồn tại trong xã hội Nhật Bản mà còn có giá trị hiện thực ở nhiều nơi trên thế giới về vấn đề hiến tạng.
+
+Cuốn sách còn giống như một lời gợi nhắc về tình cảm gia đình, về tấm lòng của những người làm cha làm mẹ dành cho những đứa con của mình. Gia đình là nơi không ngừng yêu thương và không bao giờ nói bỏ cuộc. Rõ ràng chỉ có yêu thương mới khiến người ta trăn trở đến thế, muốn cố gắng hết sức để cứu con gái yêu duy nhất. Giống như người cá vậy, cô bé Mizuko có một trái tim thật đẹp, những nhịp đập yếu ớt vẫn muốn gửi gắm đến cha mẹ tình yêu chưa một lần nói ra.
+
+Một lần nữa nhà văn Keigo Higashino lại khiến người đọc trăn trở trong từng câu văn, từng hình ảnh, từng cung bậc cảm xúc và để lại trong lòng độc giả câu hỏi day dứt “Nếu bạn ở trong hoàn cảnh ấy, liệu bạn sẽ lựa chọn ra sao?” và có lẽ đáp án lại tùy thuộc vào cách nghĩ của mỗi người.'  where id_sp=14] --> 
+28.06.2017 09:42:52 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:42:52 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:43:08 sql=[select * from sanpham where id_sp=14] 
+28.06.2017 09:43:08 sql=[select * from dmsanpham] 
+28.06.2017 09:43:22 <!-- sql=[UPDATE sanpham   set id_dm='2',  ten_sp='Ngôi Nhà Của Người Cá Say Ngủ', 	gia_sp='80000',  anh_sp='ngoi-nha-cua-nguoi-ca-say-ngu__83284.jpg' , date='2017-06-30' ,	trang_thai='sắp phát hành', 	khuyen_mai='ngoi-nha-cua-nguoi-ca-say-ngu__83284.jpg' ,	chi_tiet_sp='  Ngôi Nhà Của Người Cá Say Ngủ
+
+Tác phẩm kỉ niệm 30 năm cầm bút của Bậc thầy trinh thám số 1 Nhật Bản. Đồng thời được vinh danh trong top 10 sách văn học bán chạy nhất năm 2015 và 2016 theo thống kê từ NIPPAN.
+
+Nhà văn Keigo Higashino trở lại với một tác phẩm về tâm lý xã hội và y học đầy trăn trở và suy tư. Vẫn còn đó sự tò mò và hồi hộp nhưng lại thêm vào  những diễn biến tâm lý xã hội sâu sắc về ranh giới giữa sự sống và cái chết.
+
+Xoay quanh câu chuyện về một cặp vợ chồng dự định sẽ ly hôn sau khi cô con gái Mizuko vào cấp một.Nhưng tin dữ ập đến, một tai nạn bất ngờ không may ập đến với cô bé ở bể bơi. Nhưng sự thật còn đau đớn hơn gấp bội khi đứa con gái duy nhất của họ đã chết não nhưng trái tim vẫn còn đập bởi một sức mạnh kì lạ.
+
+Chính vào giây phút dấu hiệu của sự sống đang lụi tàn dần, cha mẹ cô bé phải tiếp nhận một sự thật tàn khốc: có nên hiến tạng của cô bé hay không?
+
+Trái tim cô bé vẫn còn đang đập và những ràng buộc riêng trên mặt luật pháp đã không cho vị bác sĩ nào dám khẳng định cô bé đã tử vong. Họ buộc lựa chọn tiếp tục chăm sóc đứa con gái đã rơi vào trạng thái thực vật hay buông tay, chấp nhận hiến tạng đứa con gái yêu duy nhất?
+
+Tất cả tạo nên một chuỗi những âu lo với bố mẹ cô bé :“Vậy kẻ hại chết con gái tôi sẽ là tôi sao? Không chỉ là những trăn trở về mặt pháp luật mà còn nhen nhóm hi vọng mong manh rằng chỉ cần trái tim còn đập thì một ngày kia cô bé sẽ dần lấy lại ý thức?.
+
+“Liệu cố gắng níu giữ sự “sự tồn tại” của một người đã chết có ý nghĩa gì? Hay đây chỉ là sự ích kỷ của bản thân họ khi từ chối hiến tạng con gái mình?. Điều này đã khiến người mẹ đã có những ý nghĩ không thấu đáo nhất thời nhưng cuối cùng...
+
+Nhà văn Keigo đã khéo léo gợi nhắc một khía cạnh nhức nhối không chỉ tồn tại trong xã hội Nhật Bản mà còn có giá trị hiện thực ở nhiều nơi trên thế giới về vấn đề hiến tạng.
+
+Cuốn sách còn giống như một lời gợi nhắc về tình cảm gia đình, về tấm lòng của những người làm cha làm mẹ dành cho những đứa con của mình. Gia đình là nơi không ngừng yêu thương và không bao giờ nói bỏ cuộc. Rõ ràng chỉ có yêu thương mới khiến người ta trăn trở đến thế, muốn cố gắng hết sức để cứu con gái yêu duy nhất. Giống như người cá vậy, cô bé Mizuko có một trái tim thật đẹp, những nhịp đập yếu ớt vẫn muốn gửi gắm đến cha mẹ tình yêu chưa một lần nói ra.
+
+Một lần nữa nhà văn Keigo Higashino lại khiến người đọc trăn trở trong từng câu văn, từng hình ảnh, từng cung bậc cảm xúc và để lại trong lòng độc giả câu hỏi day dứt “Nếu bạn ở trong hoàn cảnh ấy, liệu bạn sẽ lựa chọn ra sao?” và có lẽ đáp án lại tùy thuộc vào cách nghĩ của mỗi người.'  where id_sp=14] --> 
+28.06.2017 09:43:22 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:43:22 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:58:35 sql=[ select * from user ] 
+28.06.2017 09:58:44 sql=[ select * from dmsanpham] 
+28.06.2017 09:58:45 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:58:45 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:59:06 sql=[ select * from dmsanpham] 
+28.06.2017 09:59:07 sql=[ select * from user ] 
+28.06.2017 09:59:11 sql=[ select * from dmsanpham] 
+28.06.2017 09:59:12 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 09:59:12 sql=[SELECT * FROM sanpham] 
+28.06.2017 09:59:15 sql=[ select * from user ] 
+28.06.2017 10:00:51 sql=[ select * from user ] 
+28.06.2017 10:00:53 sql=[ select * from user ] 
+28.06.2017 10:00:57 sql=[ select * from user ] 
+28.06.2017 10:00:59 sql=[ select * from user ] 
+28.06.2017 10:01:00 sql=[ select * from user ] 
+28.06.2017 10:11:21 sql=[ select * from user ] 
+28.06.2017 10:27:03 sql=[ select * from user ] 
+28.06.2017 10:27:22 sql=[ select * from user ] 
+28.06.2017 10:27:29 sql=[ select * from user ] 
+28.06.2017 10:33:55 sql=[ select * from user ] 
+28.06.2017 10:34:31 sql=[ select * from user ] 
+28.06.2017 10:34:32 sql=[ select * from user ] 
+28.06.2017 10:34:34 sql=[ select * from user ] 
+28.06.2017 10:37:31 sql=[ select * from user ] 
+28.06.2017 10:37:45 sql=[ select * from user ] 
+28.06.2017 10:40:11 sql=[ select * from user ] 
+28.06.2017 10:41:17 sql=[ select * from user ] 
+28.06.2017 10:41:48 sql=[ select * from user ] 
+28.06.2017 10:41:50 sql=[ select * from user ] 
+28.06.2017 10:42:45 sql=[ select * from user ] 
+28.06.2017 10:42:56 sql=[ select * from user ] 
+28.06.2017 10:43:06 sql=[ select * from dmsanpham] 
+28.06.2017 10:43:08 sql=[select * from dmsanpham 
+	where id_dm=1] 
+28.06.2017 10:49:28 sql=[select * from dmsanpham 
+	where id_dm=1] 
+28.06.2017 10:49:29 sql=[ select * from user ] 
+28.06.2017 10:49:31 sql=[ select * from user ] 
+28.06.2017 10:49:33 sql=[ select * from user ] 
+28.06.2017 10:49:35 sql=[ select * from user ] 
+28.06.2017 10:50:24 sql=[ select * from user ] 
+28.06.2017 10:50:30 sql=[ select * from user ] 
+28.06.2017 10:51:23 sql=[ select * from user ] 
+28.06.2017 10:51:27 sql=[ select * from dmsanpham] 
+28.06.2017 10:51:28 sql=[ select * from user ] 
+28.06.2017 10:52:45 sql=[ select * from user ] 
+28.06.2017 10:53:19 sql=[ select * from dmsanpham] 
+28.06.2017 10:53:20 sql=[select * from dmsanpham 
+	where id_dm=18] 
+28.06.2017 10:58:04 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 10:58:04 sql=[SELECT * FROM sanpham] 
+28.06.2017 11:00:28 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 11:00:28 sql=[SELECT * FROM sanpham] 
+28.06.2017 11:00:30 sql=[ select * from dmsanpham] 
+28.06.2017 11:04:40 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 11:04:40 sql=[SELECT * FROM sanpham] 
+28.06.2017 11:05:28 sql=[ select * from user ] 
+28.06.2017 11:05:50 sql=[ select * from dmsanpham] 
+28.06.2017 11:05:52 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 11:05:52 sql=[SELECT * FROM sanpham] 
+28.06.2017 11:05:55 sql=[ select * from user ] 
+28.06.2017 11:06:50 sql=[ select * from dmsanpham] 
+28.06.2017 11:07:34 sql=[ select * from user ] 
+28.06.2017 11:07:42 sql=[ select * from dmsanpham] 
+28.06.2017 11:07:48 <!-- sql=[INSERT INTO dmsanpham (ten_danhmuc)  VALUES (	'gfgf' )] --> 
+28.06.2017 11:07:48 sql=[ select * from dmsanpham] 
+28.06.2017 11:07:54 sql=[select * from dmsanpham 
+	where id_dm=22] 
+28.06.2017 11:08:04 sql=[ select * from dmsanpham] 
+28.06.2017 11:08:07 sql=[select * from dmsanpham 
+	where id_dm=22] 
+28.06.2017 11:08:09 <!-- sql=[delete from dmsanpham   WHERE id_dm = 22] --> 
+28.06.2017 11:08:09 sql=[ select * from dmsanpham] 
+28.06.2017 11:08:18 sql=[select * from dmsanpham 
+	where id_dm=21] 
+28.06.2017 11:08:43 sql=[ select * from dmsanpham] 
+28.06.2017 11:15:51 sql=[select * from dmsanpham where id_dm=1] 
+28.06.2017 11:15:54 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc='Sách Kinh Tế'  where id_dm=1] --> 
+28.06.2017 11:15:54 sql=[ select * from dmsanpham] 
+28.06.2017 11:15:57 sql=[select * from dmsanpham where id_dm=1] 
+28.06.2017 11:16:10 sql=[ select * from dmsanpham] 
+28.06.2017 11:16:27 sql=[select * from dmsanpham where id_dm=1] 
+28.06.2017 11:17:17 sql=[ select * from dmsanpham] 
+28.06.2017 11:17:19 sql=[select * from dmsanpham where id_dm=1] 
+28.06.2017 11:32:19 sql=[ select * from dmsanpham] 
+28.06.2017 11:32:25 sql=[select * from dmsanpham where id_dm=1] 
+28.06.2017 11:32:27 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc='Sách Kinh Tế'  where id_dm=1] --> 
+28.06.2017 11:32:27 sql=[ select * from dmsanpham] 
+28.06.2017 10:13:42 sql=[ select * from user ] 
+28.06.2017 10:14:16 sql=[ select * from user ] 
+28.06.2017 10:15:52 sql=[ select * from danhmuc] 
+28.06.2017 10:17:31 sql=[ select * from danhmuc] 
+28.06.2017 10:19:27 sql=[ select * from danhmuc] 
+28.06.2017 10:19:32 sql=[select * from danhmuc where IdDM=0] 
+28.06.2017 10:19:39 <!-- sql=[UPDATE dmsanpham   set	ten_danhmuc=''  where id_dm=0] --> 
+28.06.2017 10:19:39 sql=[ select * from danhmuc] 
+28.06.2017 10:19:42 sql=[select * from danhmuc where IdDM=0] 
+28.06.2017 10:20:29 sql=[ select * from danhmuc] 
+28.06.2017 10:20:31 sql=[select * from dmsanpham 
+	where id_dm=1] 
+28.06.2017 10:20:31 Khong the select duoc,ERROR=[Table 'btlmypham.dmsanpham' doesn't exist] 
+28.06.2017 10:20:31 COUNT=[0] 
+28.06.2017 10:20:33 sql=[ select * from danhmuc] 
+28.06.2017 10:21:47 sql=[select * from danhmuc where IdDM=0] 
+28.06.2017 10:21:49 sql=[ select * from danhmuc] 
+28.06.2017 10:39:43 sql=[ select * from danhmuc] 
+28.06.2017 10:39:45 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 10:39:45 Khong the select duoc,ERROR=[Table 'btlmypham.sanpham' doesn't exist] 
+28.06.2017 10:39:45 COUNT=[0] 
+28.06.2017 10:39:45 sql=[SELECT * FROM sanpham] 
+28.06.2017 10:39:45 Khong the select duoc,ERROR=[Table 'btlmypham.sanpham' doesn't exist] 
+28.06.2017 10:39:45 COUNT=[0] 
+28.06.2017 10:39:46 sql=[ select * from danhmuc] 
+28.06.2017 10:41:52 sql=[ select * from danhmuc] 
+28.06.2017 10:41:58 <!-- sql=[INSERT INTO danhmuc (nameDM)  VALUES (	'11111' )] --> 
+28.06.2017 10:41:58 sql=[ select * from danhmuc] 
+28.06.2017 10:42:28 sql=[SELECT * FROM sanpham  INNER JOIN dmsanpham ON sanpham.id_dm=dmsanpham.id_dm ORDER BY id_sp DESC
+      LIMIT 0, 10] 
+28.06.2017 10:42:28 Khong the select duoc,ERROR=[Table 'btlmypham.sanpham' doesn't exist] 
+28.06.2017 10:42:28 COUNT=[0] 
+28.06.2017 10:42:28 sql=[SELECT * FROM sanpham] 
+28.06.2017 10:42:28 Khong the select duoc,ERROR=[Table 'btlmypham.sanpham' doesn't exist] 
+28.06.2017 10:42:28 COUNT=[0] 
+28.06.2017 10:44:52 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 10:44:52 sql=[SELECT * FROM spham] 
+28.06.2017 10:53:10 sql=[ select * from danhmuc] 
+28.06.2017 10:53:11 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 10:53:11 sql=[SELECT * FROM spham] 
+28.06.2017 10:53:12 sql=[select * from dmsanpham] 
+28.06.2017 10:53:12 Khong the select duoc,ERROR=[Table 'btlmypham.dmsanpham' doesn't exist] 
+28.06.2017 10:53:12 COUNT=[0] 
+28.06.2017 10:53:17 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 10:53:17 sql=[SELECT * FROM spham] 
+28.06.2017 11:06:06 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:06:06 sql=[SELECT * FROM spham] 
+28.06.2017 11:06:08 sql=[select * from danhmuc] 
+28.06.2017 11:09:01 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:09:01 sql=[SELECT * FROM spham] 
+28.06.2017 11:11:22 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:11:22 sql=[SELECT * FROM spham] 
+28.06.2017 11:12:07 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:12:07 sql=[SELECT * FROM spham] 
+28.06.2017 11:12:08 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:12:08 sql=[SELECT * FROM spham] 
+28.06.2017 11:12:16 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:12:16 sql=[SELECT * FROM spham] 
+28.06.2017 11:12:31 sql=[ select * from danhmuc] 
+28.06.2017 11:16:33 sql=[ select * from danhmuc] 
+28.06.2017 11:16:35 sql=[ select * from danhmuc] 
+28.06.2017 11:16:36 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:16:36 sql=[SELECT * FROM spham] 
+28.06.2017 11:16:38 sql=[ select * from danhmuc] 
+28.06.2017 11:16:39 sql=[ select * from danhmuc] 
+28.06.2017 11:16:39 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:16:39 sql=[SELECT * FROM spham] 
+28.06.2017 11:16:59 sql=[SELECT * FROM spham  INNER JOIN danhmuc ON spham.IdDM=danhmuc.IdDM ORDER BY idSP DESC
+      LIMIT 0, 10] 
+28.06.2017 11:16:59 sql=[SELECT * FROM spham] 
+28.06.2017 11:17:12 sql=[select * from danhmuc] 
+28.06.2017 11:17:31 sql=[ select * from danhmuc] 
+28.06.2017 11:17:33 sql=[select * from danhmuc where IdDM=0] 
+28.06.2017 11:17:35 sql=[ select * from danhmuc] 
+28.06.2017 11:17:41 <!-- sql=[INSERT INTO danhmuc (nameDM)  VALUES (	'1' )] --> 
+28.06.2017 11:17:41 sql=[ select * from danhmuc] 
+28.06.2017 11:17:47 sql=[select * from dmsanpham 
+	where id_dm=1] 
+28.06.2017 11:17:47 Khong the select duoc,ERROR=[Table 'btlmypham.dmsanpham' doesn't exist] 
+28.06.2017 11:17:47 COUNT=[0] 
+28.06.2017 11:17:50 sql=[ select * from danhmuc] 
